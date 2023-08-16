@@ -1,10 +1,10 @@
 ---
 title: Configurações de integração para aplicativos Adobe Experience Cloud - por solução
-description: Configurações comuns de integração para aplicativos Adobe Experience Cloud organizadas por soluções.
+description: Configurações comuns de integração para aplicativos da Adobe Experience Cloud organizadas por soluções.
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 4%
+ht-degree: 10%
 
 ---
 

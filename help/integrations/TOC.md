@@ -1,12 +1,12 @@
 ---
-user-guide-title: Tutoriais de integração do Experience Cloud
+user-guide-title: Tutoriais de integração da Experience Cloud
 breadcrumb-title: Integrações da Experience Cloud
-user-guide-description: Integrações Saiba mais.
+user-guide-description: Aprendizado de integrações.
 mini-toc-levels: 1
 source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 28%
+ht-degree: 34%
 
 ---
 
