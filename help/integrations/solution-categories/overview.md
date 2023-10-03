@@ -1,17 +1,19 @@
 ---
-title: Configurações de integração para aplicativos Adobe Experience Cloud - por solução
-description: Configurações comuns de integração para aplicativos da Adobe Experience Cloud organizadas por soluções.
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+title: Configurações de integração de aplicativos - por solução de negócios
+description: Conheça as configurações comuns de integração para aplicativos Experience Cloud, organizadas por soluções comerciais.
+exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
+source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 10%
+source-wordcount: '183'
+ht-degree: 3%
 
 ---
 
+# Configurações de integração para Experience Cloud - organizadas por solução
 
-# Configurações de integração para aplicativos Adobe Experience Cloud - por solução
+Esta seção ajuda qualquer pessoa com uma necessidade comercial, mas não tem certeza de quais aplicativos Adobe usar e como integrá-los. Estas são muitas das configurações de integração mais comuns, organizadas por soluções (marketing B2B, cadeia de fornecimento de conteúdo, insights e ativação de dados e assim por diante).
 
-Esta seção ajudará qualquer pessoa que tenha uma necessidade comercial, mas não tenha certeza de quais produtos Adobe usar e como integrá-los.  Organizamos muitas das configurações de integração mais comuns para os produtos Adobe Enterprise por categorias de soluções.  Lembre-se de que há várias maneiras de configurar os produtos Adobe, dependendo do seu ambiente.  O objetivo desta seção é fornecer orientação para que você possa implantar como está ou modificar para atender às necessidades do seu ambiente.
+Lembre-se de que há muitas maneiras de configurar os aplicativos Adobe, dependendo do seu ambiente. O objetivo desta seção é fornecer orientação para que você possa implantar como está ou modificá-los para atender às necessidades do seu ambiente.
 
 <table>
 <tr>
@@ -24,14 +26,14 @@ Esta seção ajudará qualquer pessoa que tenha uma necessidade comercial, mas n
     </td>
    <td>
       <a  href="./commerce.md"><img alt="comércio" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png"/></a>
-      <div><strong><a href="./commerce.md">[!DNL Commerce]</a></strong></div>
+      <div><strong><a href="./commerce.md">Comércio</a></strong></div>
       <p>
         Comércio digital B2B e B2C
       </p>
    </td>    
    <td>
       <a  href="./content-management.md"><img alt="Gerenciamento de conteúdo" src="https://cdn.experienceleague.adobe.com/thumb/content-management.png"/></a>
-      <div><strong><a href="./content-management.md">Gerenciamento de conteúdo</a></strong></div>
+      <div><strong><a href="./content-management.md">Gestão de conteúdo</a></strong></div>
       <p>
         Gerenciamento de conteúdo e ativos
       </p>
@@ -69,4 +71,3 @@ Esta seção ajudará qualquer pessoa que tenha uma necessidade comercial, mas n
       </p>
    </td>
 </table>
-

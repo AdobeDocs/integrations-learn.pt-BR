@@ -1,17 +1,19 @@
 ---
-title: Configurações de integração para aplicativos Adobe Experience Cloud - por produto
-description: Configurações comuns de integração para aplicativos da Adobe Experience Cloud organizadas por produto.
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+title: Configurações de integração - por aplicativo
+description: Saiba mais sobre as configurações comuns de integração para o Experience Cloud, organizadas por aplicativos.
+exl-id: 80c75142-aa73-4bac-8bed-22e0af50ec50
+source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 9%
+source-wordcount: '105'
+ht-degree: 0%
 
 ---
 
+# Configurações de integração para Experience Cloud - organizadas por aplicativo
 
-# Configurações de integração para produtos da Adobe Experience Cloud - por produto
+Esta seção ajuda qualquer pessoa com familiaridade em aplicativos Adobe que queira criar valor comercial, integrando vários aplicativos Adobe. Organizamos muitas configurações comuns de integração para aplicativos empresariais Adobe e as mapeamos para casos de uso reais.
 
-Esta seção ajudará qualquer pessoa com familiaridade em produtos Adobe que deseje criar valor comercial, integrando vários produtos Adobe.  Organizamos várias configurações de integração comuns para os produtos Adobe para corporações e as mapeamos para casos de uso reais.  Há várias maneiras de configurar os produtos Adobe, dependendo do seu ambiente.  O objetivo desta seção é fornecer orientação para que você possa implantar como está ou modificar para atender às necessidades do seu ambiente.
+Há várias maneiras de configurar aplicativos Adobe, dependendo do seu ambiente. Esta seção fornece orientação para ajudá-lo a implantar como está ou modificá-los para atender às necessidades de seu ambiente.
 
 >[!NOTE]
 >
