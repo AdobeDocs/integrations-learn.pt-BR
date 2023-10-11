@@ -1,5 +1,5 @@
 ---
-title: Como integrar o Experience Manager com o Workfront
+title: Integrar o Experience Manager com o Workfront
 description: Integre o Adobe Experience Manager (AEM) com o Workfront para simplificar suas operações de marketing.
 solution: Experience Manager, Experience Manager Assets, Workfront
 feature: Integrations
@@ -11,13 +11,13 @@ kt: null
 thumbnail: experience-manager-workfront.png
 badgeIntegration: label="Integração" type="positive"
 last-substantial-update: 2023-04-11T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: ee7d6c08-7e22-43f4-b2ff-979f7bff97c1
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '25'
+source-wordcount: '23'
 ht-degree: 4%
 
 ---
-
 
 # Integrar o Experience Manager com o Workfront
 

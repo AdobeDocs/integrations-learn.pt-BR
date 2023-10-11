@@ -1,17 +1,19 @@
 ---
-title: Gestão de conteúdo
-description: No cenário digital atual, atender às necessidades exclusivas de milhões de clientes representa um desafio significativo. Mas não fica por aí. Para ter sucesso, você também deve ter a capacidade de descobrir, conectar e redefinir rapidamente os ativos aprovados em vários dispositivos e canais em uma escala global. Além disso, é crucial obter informações sobre a eficácia dessas experiências. Descubra uma solução abrangente que o capacita a criar experiências digitais personalizadas sem esforço, garantindo ao mesmo tempo gerenciamento de ativos em tempo real, entrega eficiente e avaliação de desempenho.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+title: Integrações de aplicativos para gerenciamento de conteúdo
+description: Descubra uma solução abrangente que o capacita a criar experiências digitais personalizadas sem esforço, garantindo ao mesmo tempo gerenciamento de ativos em tempo real, entrega eficiente e avaliação de desempenho.
+exl-id: dd3e4144-38da-4616-bbe6-3f61922177ab
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: '671'
 ht-degree: 1%
 
 ---
 
-
 # Gestão de conteúdo
 
-No cenário digital atual, atender às necessidades exclusivas de milhões de clientes representa um desafio significativo. Mas não fica por aí. Para ter sucesso, você também deve ter a capacidade de descobrir, conectar e redefinir rapidamente os ativos aprovados em vários dispositivos e canais em uma escala global. Além disso, é crucial obter informações sobre a eficácia dessas experiências. Descubra uma solução abrangente que o capacita a criar experiências digitais personalizadas sem esforço, garantindo ao mesmo tempo gerenciamento de ativos em tempo real, entrega eficiente e avaliação de desempenho.
+No cenário digital atual, atender às necessidades exclusivas de milhões de clientes representa um desafio significativo. Mas não fica por aí. Para ter sucesso, você também deve ter a capacidade de descobrir, conectar e redefinir rapidamente os ativos aprovados em vários dispositivos e canais em uma escala global. Além disso, é crucial obter informações sobre a eficácia dessas experiências.
+
+Descubra uma solução abrangente que o capacita a criar experiências digitais personalizadas sem esforço, garantindo ao mesmo tempo gerenciamento de ativos em tempo real, entrega eficiente e avaliação de desempenho.
 
 <table>
  <thead>

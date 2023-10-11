@@ -1,17 +1,18 @@
 ---
-title: Cadeia de fornecimento de conteúdo
+title: Integrações de aplicativos para a cadeia de fornecimento de conteúdo
 description: Planejar, criar, personalizar e publicar conteúdo.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '286'
 ht-degree: 2%
 
 ---
 
-
 # Cadeia de fornecimento de conteúdo
 
 Planeje, crie, personalize e publique conteúdo inesquecível para cada cliente na velocidade de agora.
+
 Atender às expectativas dos clientes em tempo real para experiências personalizadas requer mais conteúdo digital do que nunca. Com as soluções de fluxo de trabalho criativo e gerenciamento de ativos do Adobe, suas equipes podem planejar, criar e fornecer conteúdo personalizado em escala que ofereça suporte à jornada do cliente em cada ponto de contato.
 
 <table>

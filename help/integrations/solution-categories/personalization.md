@@ -1,13 +1,13 @@
 ---
-title: Personalização em escala
+title: Integrações de aplicativos para personalização em escala
 description: Torne as experiências personalizadas parte de cada momento.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '516'
 ht-degree: 1%
 
 ---
-
 
 # Personalização em escala
 
