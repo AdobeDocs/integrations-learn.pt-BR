@@ -1,11 +1,11 @@
 ---
 title: Configurações de integração de aplicativos - por solução de negócios
-description: Conheça as configurações comuns de integração para aplicativos Experience Cloud, organizadas por soluções comerciais.
+description: Saiba mais sobre as configurações comuns de integração para aplicativos da Experience Cloud, organizadas por soluções empresariais.
 exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 3%
+ht-degree: 10%
 
 ---
 
