@@ -12,13 +12,13 @@ kt: null
 thumbnail: null
 last-substantial-update: 2023-04-11T00:00:00Z
 badgeIntegration: label="Integração" type="positive"
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: ef50b6b3-1e2b-4fe9-98d5-555bc14ae8d6
+source-git-commit: 46803595cf8e199e0c331ea8b82f7fe4a2afc801
 workflow-type: tm+mt
-source-wordcount: '887'
-ht-degree: 5%
+source-wordcount: '821'
+ht-degree: 1%
 
 ---
-
 
 # Integrar [!DNL Analytics] com [!DNL Commerce]
 
@@ -50,12 +50,12 @@ Para obter mais detalhes sobre cada fase e etapa do processo de integração, si
 
 1. Criar um novo conjunto de relatórios no Adobe [!DNL Analytics]ou identifique a ID do conjunto de relatórios que você enviará [!DNL Commerce] entrada de dados. Para obter mais informações, assista a um tutorial sobre [criação de um novo conjunto de relatórios](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=pt-BR). Você precisará dessa ID de conjunto de relatórios na etapa de sequência de dados abaixo.
 
-1. Navegue até a [Adobe Experience [!DNL Platform] interface](https://platform.adobe.com) se você tiver acesso ao Experience Platform [!DNL Platform]. Se você não tiver acesso a essa interface, poderá executar todas as etapas necessárias listadas abaixo na Adobe Experience Platform [!DNL Platform] [Interface da coleção de dados](https://experience.adobe.com/#/data-collection).
+1. Navegue até a [Experiência do Adobe [!DNL Platform] interface](https://platform.adobe.com) se você tiver acesso ao Experience Platform [!DNL Platform]. Se você não tiver acesso a essa interface, poderá executar todas as etapas necessárias listadas abaixo na Adobe Experience Cloud [!DNL Platform] [Interface da coleção de dados](https://experience.adobe.com/#/data-collection).
 
 1. Criar ou atualizar o esquema XDM com [!DNL Commerce]-grupos de campos específicos. Para obter mais informações sobre como criar um schema, consulte [&quot;Criar esquemas&quot;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=pt-BR) tutorial.
    * Você precisará selecionar esse esquema entre as opções na etapa de fluxo de dados abaixo. Para criar um esquema, procure na coluna à esquerda em **Gerenciamento de dados** e localizar **Esquemas**. Agora, na parte superior direita da interface, clique em **Criar esquema**. Selecione XDM ExperienceEvent.
    * Depois de criar um novo schema, você adicionará o [!DNL Commerce] grupos de campos. No lado esquerdo da interface do usuário do, localize os Grupos de campos e clique em **Adicionar**
-      * Na pesquisa, você pode filtrar inserindo `ExperienceEvent [!DNL Commerce]`
+      * Na pesquisa, você pode filtrar inserindo `ExperienceEvent Commerce`
       * Selecione o **Adobe [!DNL Analytics] ExperienceEvent[!DNL Commerce]** marcando a caixa
       * Clique em **Adicionar grupos de campos** na parte superior direita para salvar e continuar
 
@@ -75,7 +75,7 @@ Para obter mais detalhes sobre cada fase e etapa do processo de integração, si
    * Clique em **Salvar** para continuar.
    * Clique em **Adicionar serviço** e escolha **Adobe[!DNL Analytics]** no campo suspenso.
    * Clique em **Adicionar conjunto de relatórios** e insira a ID do conjunto de relatórios que você criou/identificou em uma etapa anterior. Você pode adicionar mais de um conjunto de relatórios se quiser que os dados fluam para vários conjuntos de relatórios.
-   * Opcionalmente e se você tiver criado um conjunto de dados em uma etapa anterior, clique em **Adicionar serviço** novamente, escolhendo **Adobe Experience[!DNL Platform]** no campo suspenso. No campo Conjunto de dados do evento, selecione o conjunto de dados criado anteriormente.
+   * Opcionalmente e se você tiver criado um conjunto de dados em uma etapa anterior, clique em **Adicionar serviço** novamente, escolhendo **Experiência do Adobe[!DNL Platform]** no campo suspenso. No campo Conjunto de dados do evento, selecione o conjunto de dados criado anteriormente.
    * Salve a sequência de dados.
 
 1. Por fim, para visualizar suas [!DNL Commerce] dados, será necessário navegar até o Analysis Workspace no Adobe [!DNL Analytics], criar um projeto, escolher seu conjunto de relatórios e adicionar tabelas de forma livre e outras visualizações para relatar e analisar seu [!DNL Commerce] dados. A imagem a seguir mostra um exemplo de uma tabela que você pode criar no Analysis Workspace.
@@ -89,4 +89,4 @@ Para obter mais detalhes sobre cada fase e etapa do processo de integração, si
    * [Utilização de tabelas, visualizações e painéis no Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html)
    * [Casos de uso de visualização](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html)
 
-   Além disso, há cursos gratuitos disponíveis no Experience League. Consulte [!DNL Analytics] cursos disponíveis [AQUI](https://experienceleague.adobe.com/?lang=en&amp;Solution=[!DNL Analytics]#courses).
+   Além disso, há cursos gratuitos disponíveis no Experience League. Consulte [!DNL Analytics] cursos disponíveis [AQUI](https://experienceleague.adobe.com/?lang=en&amp;Solution=Analytics#courses).
