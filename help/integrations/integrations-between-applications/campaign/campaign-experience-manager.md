@@ -1,6 +1,6 @@
 ---
-title: Integrar [!DNL Campaign] com Experience Manager
-description: Integrar o Adobe Experience Manager (AEM) com o [!DNL Campaign] para criar e gerenciar campanhas de email.
+title: Integrar [!DNL Campaign] com o Experience Manager
+description: Integre o Adobe Experience Manager (AEM) com o  [!DNL Campaign] para criar e gerenciar campanhas de email.
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Campaign Standard, Campaign Classic v7, Experience Manager, Experience Manager Forms
 feature: Integrations
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 4%
 
 ---
 
-# Integrar [!DNL Campaign] com Experience Manager
+# Integrar [!DNL Campaign] ao Experience Manager
 
 {{$include /help/_includes/integrations-between-applications/campaign-experience-manager.md}}

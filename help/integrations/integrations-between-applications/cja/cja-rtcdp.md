@@ -1,6 +1,6 @@
 ---
-title: Integrar a Jornada do cliente [!DNL Analytics] com [!DNL Real-Time Customer Data Platform]
-description: Saiba como integrar o Customer Jornada [!DNL Analytics] com [!DNL Real-Time Customer Data Platform].
+title: Integrar a Jornada do cliente  [!DNL Analytics] com [!DNL Real-Time Customer Data Platform]
+description: Saiba como integrar a Jornada do cliente [!DNL Analytics] ao [!DNL Real-Time Customer Data Platform].
 solution: Customer Journey [!DNL Analytics], Real-Time Customer Data [!DNL Platform]
 feature: Integrations
 topic: Integrations
@@ -19,6 +19,6 @@ ht-degree: 5%
 
 ---
 
-# Integrar a Jornada do cliente [!DNL Analytics] com dados do cliente em tempo real [!DNL Platform]
+# Integrar a Jornada do cliente [!DNL Analytics] aos dados do cliente em tempo real [!DNL Platform]
 
 {{$include /help/_includes/integrations-between-applications/cja-rtcdp.md}}

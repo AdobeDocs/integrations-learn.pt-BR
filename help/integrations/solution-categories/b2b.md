@@ -4,7 +4,7 @@ description: Coordene o gerenciamento de clientes potenciais, o ABM e a atribui�
 exl-id: ed4fb791-7883-4f42-80a0-12ab4e3c80ab
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '217'
 ht-degree: 2%
 
 ---
@@ -41,7 +41,7 @@ Coordene o gerenciamento de clientes potenciais, o ABM e a atribuição em escal
 
 <tr>
   <td rowspan="1"><strong>Expandir públicos para plataformas de personalização e publicidade</strong><br/></td> 
-  <td>Uso [!DNL Analytics] dados para criar públicos-alvo para usar em táticas de personalização ou remarketing.</td>
+  <td>Use os dados do [!DNL Analytics] para criar públicos-alvo a serem usados em táticas de personalização ou remarketing.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Realize o direcionamento e a personalização do público-alvo digital em dispositivos ou canais de publicidade compatíveis.</li>
@@ -54,7 +54,7 @@ Coordene o gerenciamento de clientes potenciais, o ABM e a atribuição em escal
 
 <tr>
   <td><strong>Personalizar experiências digitais</strong><br/></td>
-  <td> Usar perfis de clientes em tempo real e gerenciados centralmente [!DNL Platform] segmentos para personalizar mensagens na web, dispositivos móveis e outros canais digitais.
+  <td> Use Perfis de clientes em tempo real e segmentos do [!DNL Platform] gerenciados centralmente para personalizar mensagens na Web, em dispositivos móveis e em outros canais digitais.
   </td>
   <td>
     <ul style="margin-top: 0;">
@@ -70,7 +70,7 @@ Coordene o gerenciamento de clientes potenciais, o ABM e a atribuição em escal
 <tr>
   <td><strong>Aprimorar a geração de clientes potenciais</strong><br/></td>
   <td>
-    Usar perfis de clientes em tempo real e gerenciados centralmente [!DNL Platform] segmentos para personalizar mensagens na web, dispositivos móveis e outros canais digitais
+    Use Perfis de clientes em tempo real e segmentos do [!DNL Platform] gerenciados centralmente para personalizar mensagens na Web, dispositivos móveis e outros canais digitais
   </td>
   <td>
     <ul style="margin-top: 0;">

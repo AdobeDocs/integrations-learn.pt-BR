@@ -2,20 +2,20 @@
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
 
-# Dados do cliente em tempo real do Adobe [!DNL Platform] e ADOBE [!DNL Target] integração
+# Integração de dados do cliente em tempo real do Adobe [!DNL Platform] e Adobe [!DNL Target]
 
 {{real-time-cdp-description}}
 
 {{target-description}}
 
-Integração do Real-Time CDP com o [!DNL Target] O oferece a capacidade de personalizar o conteúdo usando dados de clientes conhecidos. Além disso, os recursos de consentimento e governança de dados da Real-Time CDP ajudam a garantir que você esteja usando esses dados conhecidos do cliente de forma responsável e cumprindo restrições legais, contratuais e normativas, além de respeitar as preferências do cliente. Principais benefícios da integração do Real-Time CDP e do [!DNL Target] incluem:
+Integrar o Real-Time CDP com o [!DNL Target] oferece a capacidade de personalizar o conteúdo usando dados de clientes conhecidos. Além disso, os recursos de consentimento e governança de dados da Real-Time CDP ajudam a garantir que você esteja usando esses dados conhecidos do cliente de forma responsável e cumprindo restrições legais, contratuais e normativas, além de respeitar as preferências do cliente. Os principais benefícios da integração do Real-Time CDP e do [!DNL Target] incluem:
 
-+ **Fornecer experiências personalizadas** em seu site e aplicativos móveis.
++ **Forneça experiências personalizadas** no seu site e em aplicativos móveis.
 + **Compartilhar segmentos e atributos de perfil** do Adobe Real-Time CDP para o Adobe [!DNL Target].
 + **[!DNL Target]conteúdo** para segmentos e exibir valores de atributo.
 
@@ -31,10 +31,10 @@ Integração do Real-Time CDP com o [!DNL Target] O oferece a capacidade de pers
     <tbody>
     <tr>
         <td><a href="../../integrations/tutorials/rtcdp-target/web-sdk-and-target-destination.md" target="_blank" rel="noreferrer">REAL-TIME CDP e [!DNL Target]</a></td>
-        <td>SDK da Web e [!DNL Target] destino</td>
+        <td>SDK da Web e destino [!DNL Target]</td>
         <td>
             <ul style="margin-top: 0;">
-                <li>Quando quiser o compartilhamento mais rápido de dados do Real-Time CDP para [!DNL Target] para o seu site.</li>
+                <li>Quando quiser o compartilhamento mais rápido de dados do Real-Time CDP para o [!DNL Target] no seu site.</li>
             </ul>
         </td>
         <td>

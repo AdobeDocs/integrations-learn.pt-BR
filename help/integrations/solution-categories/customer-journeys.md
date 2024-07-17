@@ -26,7 +26,7 @@ Desenvolva perfis de clientes em tempo real obtendo dados de todas as fontes par
   <tbody>
 <tr>
   <td><strong>Criar material de marketing usando ativos da marca</strong><br></td>
-  <td>Criar e supervisionar conteúdo e modelos de marketing por email usando AEM e Adobe [!DNL Campaign].</td>
+  <td>Crie e supervisione conteúdo e modelos de marketing por email usando AEM e Adobe [!DNL Campaign].</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Enviar emails de marketing criados com o AEM</li>
@@ -37,14 +37,14 @@ Desenvolva perfis de clientes em tempo real obtendo dados de todas as fontes par
 
 <tr>
   <td><strong>Capturar dados do cliente</strong><br></td>
- <td>Aumento nativo [!DNL Campaign] recursos para capturar dados do cliente para direcionamento e personalização de campanhas de marketing.</td>
+ <td>Aumente os recursos nativos do [!DNL Campaign] para capturar dados de clientes para direcionamento e personalização de campanhas de marketing.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Crie perfis e colete informações adicionais. </li>
-      <li>Subscrições</li>
+      <li>Assinaturas</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM FORMS e [!DNL Campaign] Padrão</a></td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM Forms e [!DNL Campaign] Standard</a></td>
 </tr>
 
 <tr>
@@ -83,7 +83,7 @@ Desenvolva perfis de clientes em tempo real obtendo dados de todas as fontes par
 
 <tr>
   <td><strong>Personalizar entregas de email</strong><br></td>
-  <td>Personalize deliveries de email com conteúdo dinâmico aproveitando os recursos do Adobe [!DNL Target].</td>
+  <td>Personalize entregas de email com conteúdo dinâmico aproveitando os recursos do Adobe [!DNL Target].</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Adicionar ofertas personalizadas a emails de clientes</li>
@@ -94,7 +94,7 @@ Desenvolva perfis de clientes em tempo real obtendo dados de todas as fontes par
 
 <tr>
   <td><strong>Personalizar experiências digitais</strong><br></td>
-  <td>Usar perfis de clientes em tempo real e gerenciados centralmente [!DNL Platform] segmentos para personalizar mensagens na web, dispositivos móveis e outros canais digitais.</td>
+  <td>Use Perfis de clientes em tempo real e segmentos do [!DNL Platform] gerenciados centralmente para personalizar mensagens na Web, em dispositivos móveis e em outros canais digitais.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Personalização de conteúdo para visitantes conhecidos</li>
@@ -108,7 +108,7 @@ Desenvolva perfis de clientes em tempo real obtendo dados de todas as fontes par
 
 <tr>
   <td><strong>Aprimorar a geração de clientes potenciais</strong><br></td>
-  <td>Usar perfis de clientes em tempo real e gerenciados centralmente [!DNL Platform] segmentos para personalizar mensagens na web, dispositivos móveis e outros canais digitais</td>
+  <td>Use Perfis de clientes em tempo real e segmentos do [!DNL Platform] gerenciados centralmente para personalizar mensagens na Web, dispositivos móveis e outros canais digitais</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Personalização de conteúdo para visitantes conhecidos</li>

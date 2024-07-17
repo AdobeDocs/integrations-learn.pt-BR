@@ -1,23 +1,23 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 5%
+source-wordcount: '105'
+ht-degree: 2%
 
 ---
 
 
-# [!DNL Campaign] e [!DNL Target] integração
+# Integração de [!DNL Campaign] e [!DNL Target]
 
 {{campaign-description}}
 
 {{target-description}}
 
-Usar Adobe [!DNL Campaign] com Adobe [!DNL Target] para personalizar e otimizar seu conteúdo de email. Os principais benefícios incluem:
+Use o Adobe [!DNL Campaign] com o Adobe [!DNL Target] para personalizar e otimizar seu conteúdo de email. Os principais benefícios incluem:
 
-+ **Adobe [!DNL Campaign] dados**: Melhorar o direcionamento no Adobe [!DNL Target] com Adobe [!DNL Campaign] data mart
-+ **Segmentação de público**: vincula segmentos à ID do visitante para obter experiências personalizadas e direcionamento otimizadas.
-+ **[!DNL Target]Aprimoramentos do ing**: acesse dados valiosos (agente do usuário, endereço IP, geolocalização) para obter direcionamento e campanhas aprimorados.
++ **Adobe [!DNL Campaign] dados**: melhorar o direcionamento no Adobe [!DNL Target] com o data mart Adobe [!DNL Campaign].
++ **Segmentação de público-alvo**: vincule segmentos à ID de visitante para direcionamento otimizado e experiências personalizadas.
++ **[!DNL Target]Aprimoramentos de aprimoramento**: acesse dados valiosos (agente do usuário, endereço IP, geolocalização) para melhorar o direcionamento e as campanhas.
 
 ## Integrações comuns
 

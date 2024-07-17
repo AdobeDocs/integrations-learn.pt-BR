@@ -1,5 +1,5 @@
 ---
-title: Integrar [!DNL Campaign] v8 com o tutorial do Experience Manager
+title: Integrar o  [!DNL Campaign] v8 ao tutorial do Experience Manager
 description: Saiba como conectar o Adobe [!DNL Campaign] com o Adobe Experience Manager para gerenciar modelos, ativos e formulários de entrega de email no Experience Manager.
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Experience Manager
 feature: Integrations
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# Integrar [!DNL Campaign] v8 com o tutorial do Experience Manager
+# Integrar o [!DNL Campaign] v8 com o tutorial de Experience Manager
 
 Saiba como conectar o Adobe [!DNL Campaign] com o Adobe Experience Manager para gerenciar modelos, ativos e formulários de entrega de email no Experience Manager.
 
@@ -28,19 +28,19 @@ O vídeo a seguir explica o que você aprende.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12&learn=on)
 
-## Configurar [!DNL Campaign] para a integração de Experience Manager
+## Configurar o [!DNL Campaign] para integração com o Experience Manager
 
 Saiba como configurar a integração entre o Experience Manager e o [!DNL Campaign], incluindo configurações importantes a serem observadas e possíveis &quot;armadilhas&quot; a serem evitadas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340121?quality=12&learn=on)
 
-## Aprovar e publicar uma página de Experience Manager para [!DNL Campaign]
+## Aprovar e publicar uma página de Experience Manager em [!DNL Campaign]
 
-Saiba como criar um boletim informativo no Experience Manager e como aprová-lo e publicá-lo no [!DNL Campaign].
+Saiba como criar um informativo no Experience Manager e como aprová-lo e publicá-lo no [!DNL Campaign].
 
 >[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on)
 
-## Sincronizar e enviar um delivery de email Experience Manager no [!DNL Campaign]
+## Sincronizar e enviar um delivery de email Experience Manager em [!DNL Campaign]
 
 Saiba como testar e enviar um informativo criado no Experience Manager, em [!DNL Campaign].
 

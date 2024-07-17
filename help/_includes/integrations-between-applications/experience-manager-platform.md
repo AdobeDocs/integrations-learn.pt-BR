@@ -1,22 +1,22 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 17%
+source-wordcount: '100'
+ht-degree: 3%
 
 ---
 
 
-# Experience Manager e Adobe Experience [!DNL Platform]
+# Experience Manager e experiência Adobe [!DNL Platform]
 
 {{experience-manager-description}}
 
 {{experience-platform-description}}
 
-Integração do AEM e da experiência [!DNL Platform] O oferece vários benefícios, incluindo:
+A integração do AEM com a Experiência [!DNL Platform] oferece vários benefícios, incluindo:
 
 + **Assimilação de dados**: assimile e unifique dados de várias fontes para obter uma visualização integral do cliente.
-+ **Perfis de cliente**: crie perfis unificados com dados comportamentais, transacionais e demográficos.
++ **Perfis de clientes**: crie perfis unificados com dados comportamentais, transacionais e demográficos.
 + **Ativação e integração**: integra-se aos produtos Adobe para ativação de dados e insights em tempo real.
 
 ## Integrações do Commons
@@ -32,8 +32,8 @@ Integração do AEM e da experiência [!DNL Platform] O oferece vários benefíc
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html?lang=pt-BR" target="_blank" rel="noreferrer">Experience Manager e experiência [!DNL Platform]</a></td>
-            <td>Experiência [!DNL Platform] SDK da Web</td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html" target="_blank" rel="noreferrer">Experience Manager e experiência [!DNL Platform]</a></td>
+            <td>Experiência do SDK da Web do [!DNL Platform]</td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Quando quiser posicionar o AEM para poder se integrar a outros aplicativos da Adobe Experience Cloud.</li>
@@ -41,9 +41,9 @@ Integração do AEM e da experiência [!DNL Platform] O oferece vários benefíc
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                  <li>Integrar com o Adobe [!DNL Analytics].</li>
-                  <li>Integrar com o Adobe [!DNL Target].</li>
-                  <li>Integração do ao Adobe Journey Optimizer.</li>
+                  <li>Integrar com Adobe [!DNL Analytics].</li>
+                  <li>Integrar com Adobe [!DNL Target].</li>
+                  <li>Integrar ao Adobe Journey Optimizer.</li>
                 </ul>
             </td>
         </tr>        

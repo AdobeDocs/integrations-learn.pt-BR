@@ -17,6 +17,6 @@ ht-degree: 7%
 
 ---
 
-# Integrar [!DNL Campaign] com dados do cliente em tempo real [!DNL Platform]
+# Integrar o [!DNL Campaign] aos Dados do cliente em tempo real [!DNL Platform]
 
 {{$include /help/_includes/integrations-between-applications/campaign-rtcdp.md}}

@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 3%
+source-wordcount: '147'
+ht-degree: 2%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 3%
 
 A integração do Adobe Audience Manager e do Adobe Real-Time CDP oferece estes benefícios:
 
-+ **Insights abrangentes do cliente** com dados primários e de terceiros combinados, permitindo uma compreensão mais profunda das preferências e dos comportamentos do cliente.
-+ **Personalização em tempo real** O capacita os profissionais de marketing para fornecer experiências relevantes, melhorando o envolvimento e a satisfação do cliente.
-+ **Segmentação precisa de público** O otimiza os esforços de marketing, resultando em campanhas mais eficazes e em ROI aprimorado.
-+ **Experiências contínuas entre canais** garantir mensagens consistentes e maior fidelidade do cliente.
-+ **Maior privacidade e conformidade de dados** aderência criar confiança com os clientes e reduzir os riscos de conformidade.
++ **Insights abrangentes do cliente** com dados primários e de terceiros combinados, permitindo uma compreensão mais profunda das preferências e comportamentos do cliente.
++ **A personalização em tempo real** capacita os profissionais de marketing a fornecer experiências relevantes, aprimorando a participação e a satisfação do cliente.
++ **A segmentação precisa do público-alvo** otimiza os esforços de marketing, resultando em campanhas mais eficazes e em ROI aprimorado.
++ **Experiências ininterruptas entre canais** garantem mensagens consistentes e maior fidelidade do cliente.
++ **Conformidade e privacidade de dados** aprimoradas: crie confiança com os clientes e reduza os riscos de conformidade.
 
 ## Integrações comuns
 
@@ -35,7 +35,7 @@ A integração do Adobe Audience Manager e do Adobe Real-Time CDP oferece estes 
     <tbody>
         <tr>
             <td>
-                <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html" target="_blank" rel="noreferrer">AUDIENCE MANAGER e REAL-TIME CDP</a>
+                <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html" target="_blank" rel="noreferrer">Audience Manager e Real-Time CDP</a>
             </td>
             <td>Conector de dados do Adobe Audience Manager</td>
             <td>

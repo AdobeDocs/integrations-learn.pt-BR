@@ -40,7 +40,7 @@ Desenvolva experiências de comércio em vários canais em uma única plataforma
           <li>Implementar configurações complexas de várias lojas.</li>
           <li>Gerenciamento contínuo de conteúdo em todos os sites.</li>
           <li>Coordenação de conteúdo global eficiente.</li>
-          <li>Suporte a vários ambientes para Adobe [!DNL Commerce].</li>
+          <li>Suporte a vários ambientes para o Adobe [!DNL Commerce].</li>
           <li>Criação simplificada de conteúdo de comércio.</li>
           <li>Gerenciamento consistente e eficiente de vitrines.</li>
       </ul>
@@ -50,7 +50,7 @@ Desenvolva experiências de comércio em vários canais em uma única plataforma
  <tr>
    <td><strong>Análise de dados e relatórios<strong></td>
    <td>Avalie as métricas de funil de conversão, pedidos, receita e visita e visitante da loja de comércio.</td>
-   <td><ul style="margin-top: 0;"><li>Insights de dados e relatórios sobre atividades comerciais.</li><li>Obtenha insights abrangentes sobre o Adobe [!DNL Commerce] armazene o desempenho usando as métricas e dimensões principais selecionadas.</li></ul></td>
+   <td><ul style="margin-top: 0;"><li>Insights de dados e relatórios sobre atividades comerciais.</li><li>Obtenha insights abrangentes sobre o desempenho de armazenamento do Adobe [!DNL Commerce] usando as métricas e dimensões principais que você selecionar.</li></ul></td>
    <td><a href="/help/integrations/integrations-between-applications/commerce/commerce-analytics.md">[!DNL Commerce] e [!DNL Analytics]</a></td>
  </tr>
  </tbody>

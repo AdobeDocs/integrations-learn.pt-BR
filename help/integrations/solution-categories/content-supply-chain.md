@@ -27,7 +27,7 @@ Atender às expectativas dos clientes em tempo real para experiências personali
   <tbody>
 <tr>
   <td><strong>Criar material de marketing usando ativos da marca</strong><br/></td>
-  <td>Criar e supervisionar conteúdo e modelos de marketing por email usando AEM e Adobe [!DNL Campaign].</td>
+  <td>Crie e supervisione conteúdo e modelos de marketing por email usando AEM e Adobe [!DNL Campaign].</td>
   <td>
     <ul>
       <li>Enviar emails de marketing criados com o AEM</li>
@@ -84,15 +84,15 @@ Atender às expectativas dos clientes em tempo real para experiências personali
 </tr>
 <tr>
   <td><strong>Capturar dados do cliente</strong><br/></td>
-  <td>Aumento nativo [!DNL Campaign] recursos para capturar dados do cliente para direcionamento e personalização de campanhas de marketing.
+  <td>Aumente os recursos nativos do [!DNL Campaign] para capturar dados de clientes para direcionamento e personalização de campanhas de marketing.
   </td>
   <td>
     <ul>
       <li>Crie perfis e colete informações adicionais. </li>
-      <li>Subscrições</li>
+      <li>Assinaturas</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM FORMS e [!DNL Campaign] Padrão</a></td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM Forms e [!DNL Campaign] Standard</a></td>
 </tr>
 </tbody>
 </table>

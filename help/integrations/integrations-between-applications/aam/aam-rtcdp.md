@@ -19,6 +19,6 @@ ht-degree: 10%
 
 ---
 
-# Integrar [!DNL Audience Manager] com [!DNL Real-Time Customer Data Platform]
+# Integrar [!DNL Audience Manager] a [!DNL Real-Time Customer Data Platform]
 
 {{$include /help/_includes/integrations-between-applications/aam-rtcdp.md}}

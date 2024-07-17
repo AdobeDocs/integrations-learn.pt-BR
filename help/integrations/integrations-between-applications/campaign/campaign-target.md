@@ -18,6 +18,6 @@ ht-degree: 10%
 
 ---
 
-# Integrar [!DNL Campaign] com [!DNL Target]
+# Integrar [!DNL Campaign] a [!DNL Target]
 
 {{$include /help/_includes/integrations-between-applications/campaign-target.md}}

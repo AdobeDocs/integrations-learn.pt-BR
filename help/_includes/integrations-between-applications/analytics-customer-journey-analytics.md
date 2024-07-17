@@ -1,25 +1,25 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 2%
+source-wordcount: '219'
+ht-degree: 1%
 
 ---
 
 
-# Integrar Adobe [!DNL Analytics] com a Jornada do cliente [!DNL Analytics]
+# Integrar Adobe [!DNL Analytics] com Jornada do cliente [!DNL Analytics]
 
 {{analytics-description}}
 
 {{customer-journey-analytics-description}}
 
-Integração do Adobe [!DNL Analytics] com a Jornada do cliente [!DNL Analytics] oferece os principais benefícios:
+A integração do Adobe [!DNL Analytics] com a Jornada do cliente [!DNL Analytics] oferece os principais benefícios:
 
-+ **Insights abrangentes** em comportamentos e preferências do cliente.
-+ **Rastreamento contínuo entre canais** para obter uma visão holística.
-+ **Dados e relatórios unificados** para uma análise precisa.
-+ **Personalização aprimorada** e maior engajamento do cliente.
-+ **Insights de dados em tempo real** para uma tomada de decisões ágil.
++ **Insights abrangentes** sobre comportamentos e preferências do cliente.
++ **Rastreamento ininterrupto entre canais** para obter uma exibição holística.
++ **Dados e relatórios unificados** para análise precisa.
++ **Personalização aprimorada** e melhor envolvimento com o cliente.
++ **Insights de dados em tempo real** para tomada de decisão ágil.
 
 ## Integrações comuns
 
@@ -35,27 +35,27 @@ Integração do Adobe [!DNL Analytics] com a Jornada do cliente [!DNL Analytics]
     <tbody>
         <tr>
             <td rowspan="2">[!DNL Analytics] e Jornada do cliente [!DNL Analytics]</td>
-            <td><a href="../../integrations/tutorials/analytics-cja/experience-platform-source-connector.md" target="_blank" rel="noreferrer">Experiência [!DNL Platform] conector de origem</a></td>
+            <td><a href="../../integrations/tutorials/analytics-cja/experience-platform-source-connector.md" target="_blank" rel="noreferrer">Experiência do conector de origem [!DNL Platform]</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Abordagem recomendada para clientes que já implementaram o Adobe [!DNL Analytics]e desejam a maneira mais rápida de assimilar esses dados na Experience Cloud [!DNL Platform] para usar na Jornada ao cliente [!DNL Analytics].</li>
+                    <li>Abordagem recomendada para clientes que já implementaram o Adobe [!DNL Analytics] e desejam a maneira mais rápida de assimilar esses dados na Experiência [!DNL Platform] para usar na Jornada do Cliente [!DNL Analytics].</li>
                     <li>Quando a disponibilidade dos dados para o Perfil do cliente puder estar entre 2 e 30 minutos a partir do momento da coleta de dados, e a disponibilidade para o Data Lake for de até 90 minutos.</li>
                 </ul>
             </td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Fluxo de trabalho direto, iniciado pela interface do usuário.</li>
-                    <li>Mapeamento da interface do usuário para cópia [!DNL Analytics] props e eVars para novos campos XDM.</li>
-                    <li>A maneira mais rápida de obter valor do Perfil do cliente em tempo real e da Jornada do cliente [!DNL Analytics].</li>
+                    <li>Mapeamento da interface do usuário para copiar props e eVars de [!DNL Analytics] para novos campos XDM.</li>
+                    <li>A maneira mais rápida de obter valor do Perfil do Cliente em Tempo Real e da Jornada do Cliente [!DNL Analytics].</li>
                 </ul>
             </td>
         </tr>
         <tr>
-            <td><a href="../../integrations/tutorials/analytics-cja/experience-platform-edge.md" target="_blank" rel="noreferrer">Experiência [!DNL Platform] Edge</a></td>
+            <td><a href="../../integrations/tutorials/analytics-cja/experience-platform-edge.md" target="_blank" rel="noreferrer">Experimentar o [!DNL Platform] Edge</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Abordagem recomendada [!DNL Analytics] implementações ou quando quiser implementar uma estratégia de longo prazo.</li>
-                    <li>Envia dados diretamente de um dispositivo para a Experience Platform [!DNL Platform] usando o SDK da Web da AEP, o SDK móvel da AEP ou a API do servidor da rede de borda.</li>
+                    <li>Abordagem recomendada para novas implementações do [!DNL Analytics] ou quando você deseja implementar uma estratégia de longo prazo.</li>
+                    <li>Envia dados diretamente de um dispositivo para a Experiência [!DNL Platform] usando o SDK da Web da AEP, o SDK móvel da AEP ou a API do servidor Edge Network.</li>
                 </ul>
             </td>
             <td>

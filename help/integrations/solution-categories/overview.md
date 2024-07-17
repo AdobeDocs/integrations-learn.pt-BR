@@ -4,8 +4,8 @@ description: Saiba mais sobre as configurações comuns de integração para apl
 exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 10%
+source-wordcount: '178'
+ht-degree: 11%
 
 ---
 
@@ -49,7 +49,7 @@ Lembre-se de que há muitas maneiras de configurar os aplicativos Adobe, depende
     </td>
    <td>
       <a  href="./customer-journeys.md"><img alt="Jornadas do cliente" src="https://cdn.experienceleague.adobe.com/thumb/customer-journeys.png"/></a>
-      <div><strong><a href="./customer-journeys.md">Jornadas do cliente</a></strong></div>
+      <div><strong><a href="./customer-journeys.md">jornadas para clientes</a></strong></div>
       <p>
         Orquestração e entrega omnicanal
       </p> 
@@ -64,8 +64,8 @@ Lembre-se de que há muitas maneiras de configurar os aplicativos Adobe, depende
 </tr>
 <tr>
    <td>
-      <a  href="./personalization.md"><img alt="Personalização em escala" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
-      <div><strong><a href="./personalization.md">Personalização como escala</a></strong></div>
+      <a  href="./personalization.md"><img alt="Personalization em escala" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
+      <div><strong><a href="./personalization.md">Personalization como escala</a></strong></div>
       <p>
         Como tornar cada conexão pessoal
       </p>

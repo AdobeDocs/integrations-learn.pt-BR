@@ -19,6 +19,6 @@ ht-degree: 7%
 
 ---
 
-# Integrar [!DNL Analytics] com [!DNL Target]
+# Integrar [!DNL Analytics] a [!DNL Target]
 
 {{$include /help/_includes/integrations-between-applications/analytics-target.md}}
