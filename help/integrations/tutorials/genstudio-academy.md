@@ -3,7 +3,7 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: 56161e27aecff07b0d93bf85edb994c477d9e586
+source-git-commit: 969f6489b79a84079c542c008b8f7dd372afcd60
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 1%
@@ -22,12 +22,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td align="center">
-    IA de geração de mestre <strong style= "font-size: 2em">. Transforme seus fluxos de trabalho.</strong>
-  </td>
- </tr>
- <tr style= "border: 0;">
-  <td align="center">
-    Saiba mais sobre as principais habilidades para usar IA gerativa em workflows de marketing. Em qualquer lugar. Gratuitamente.
+    IA de geração de mestre <strong style= "font-size: 2em">. Transforme seus fluxos de trabalho.</strong><p>Saiba mais sobre as principais habilidades para usar IA gerativa em workflows de marketing. Em qualquer lugar. Gratuitamente.
   </td>
  </tr>
 </table>
