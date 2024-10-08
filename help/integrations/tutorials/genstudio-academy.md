@@ -3,9 +3,9 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: e55be0b347a77cca64cc466ea9188f30ab5f7067
+source-git-commit: 6270ed2ccb04287ff7da3a26e70d154c49ab65a2
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '202'
 ht-degree: 2%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 2%
 
 <table>
  <tr style= "border: 0;">
-  <td align="center"> <strong style= "font-size: 2em">A solicitação foi facilitada.</strong><p> Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor. Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor. Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor.</td>
+  <td align="center"> <strong style= "font-size: 2em"> Solicitação FOO facilitada.</strong><p> Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor. Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor. Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor.</td>
   <td><img src="./assets/medium.png"></td>
  </tr>
 </table>
