@@ -3,10 +3,10 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: e296e5d0859af7258ff4dcdd21ec507bfe1e3661
+source-git-commit: 56161e27aecff07b0d93bf85edb994c477d9e586
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 2%
+source-wordcount: '176'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 2%
 <table>
  <tr style= "border: 0;">
   <td> <strong style= "font-size: 2em">Torne-se um líder de IA gerativa.</strong><p> Torne-se um líder da IA gerativa. Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registrar</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Logon</span></a></td>
-  <td><img src="./assets/medium.png"></td>
+  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
 
@@ -36,7 +36,7 @@ ht-degree: 2%
 
 <table>
  <tr style= "border: 0;">
-  <td><img src="./assets/medium.png"></td>
+  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
   <td align="center"> <strong style= "font-size: 2em">Habilidades de IA gerativas a qualquer momento.</strong><p> Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor. Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor. Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor.<p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Explorar agora</span></a></td>
  </tr>
 </table>
@@ -45,26 +45,20 @@ ht-degree: 2%
 
 <table>
  <tr style= "border: 0;">
-  <td align="center"> <strong style= "font-size: 2em"> Solicitação FOO facilitada.</strong><p> Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor. Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor. Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor.</td>
+  <td align="center"> <strong style= "font-size: 2em">Analisar a IA de geração para marketing.</strong><p> Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor. Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor. Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor.</td>
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
 
-<table>
- <tr style= "border: 0;">
-  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td> 
-  <td> <strong style= "font-size: 2em">Analisar a IA de geração para marketing.</strong><p> Torne-se um líder da IA gerativa. Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Leve-me até lá</span><td>
- </tr>
-</table>
 
 <table>
  <tr style= "border: 0;colspan: 2;">
   <td> <strong style= "font-size: 2em">Em breve para a Genstudio Academy</strong></td>
  </tr> 
  <tr style= "border: 0;colspan: 2;"> 
-    <td align="left"><img src="./assets/small.png"></td>
-    <td align="center"><img src="./assets/small.png"></td>
-    <td align="right"><img src="./assets/small.png"></td>
+    <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+    <td align="center"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+    <td align="right"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
 
