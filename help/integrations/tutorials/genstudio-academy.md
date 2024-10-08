@@ -3,9 +3,9 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: f63c9098d09776a8de8b9c374dab79c0eab0db4a
+source-git-commit: aeefe4dcd0140149b419fc77631b324797547b30
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '225'
 ht-degree: 1%
 
 ---
@@ -76,6 +76,15 @@ ht-degree: 1%
   <td> <strong style= "font-size: 2em">Coloque seus aprendizados em prática</strong><p> Torne-se um líder da IA gerativa. Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Leve-me até lá</span></a><td>
  </tr>
 </table>
+
+<table>
+ <tr style= "border: 0;">
+ <td><img src="./assets/medium.png"></td>
+  <td> <strong style= "font-size: 2em">FOOO FOOO</strong><p> Torne-se um líder da IA gerativa. Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registrar</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Logon</span></a></td>
+
+</tr>
+</table>
+
 
 >[!ENDSHADEBOX]
 
