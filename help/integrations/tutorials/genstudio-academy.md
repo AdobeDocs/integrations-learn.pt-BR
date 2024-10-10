@@ -3,10 +3,10 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: 743c51f9736576d0c0d41bd8d4924c1fc2ca320f
+source-git-commit: 58659803aa9611d28c8b31c3f879f0df4e10fe32
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 1%
+source-wordcount: '194'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td> <strong style= "font-size: 2em">Aumente seu conhecimento sobre IA generativa.  </strong><p>Domine as habilidades de IA gerativa para transformar seus fluxos de trabalho criativos e de marketing. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registrar</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Logon</span></a></td>
-  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+  <td><img src="./assets/elevate-your-generative-ai-knowledge.png"></td>
  </tr>
 </table>
 
@@ -41,7 +41,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td align="center"> <strong style= "font-size: 2em">Níveis de aprendizado. Oportunidade sem limites desbloqueada.</strong><p>Com os níveis de domínio do GenStudio Academy, é simples encontrar conteúdo que melhore suas habilidades de IA gerativas, seja aprendendo sobre LLMs, dominando a criação imediata ou vendo as ferramentas de IA em ação. A GenStudio Academy tem uma coisa para todo mundo.</td>
-  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+  <td><img src="./assets/levels-of-learning.png"></td>
  </tr>
 </table>
 
@@ -51,8 +51,26 @@ ht-degree: 1%
   <td colspan=3> <strong style= "font-size: 2em;">Coming soon to Genstudio Academy</strong></td>
  </tr> --> 
  <tr style= "border: 0;colspan: 3;"> 
-    <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>Dicas e truques para usar o GenStudio for Performance Marketing da maneira mais eficiente. </td>
-    <td align="right"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>Cursos avançados para desbloquear habilidades de IA de nível especializado em marketing. </td>
+   <td>
+      <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
+      <div>
+      <a href="https://www.adobe.com"><strong>Dicas e truques </strong>
+      </a>
+      </div>
+      <p>
+      Dicas e truques para usar o GenStudio for Performance Marketing da maneira mais eficiente.
+      </p>
+   </td>
+   <td>
+      <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
+      <div>
+      <a href="https://www.adobe.com"><strong>Cursos de especialistas</strong>
+      </a>
+      </div>
+      <p>
+      Cursos avançados para desbloquear habilidades de IA de nível especializado em marketing.
+      </p>
+   </td>
  </tr>
 </table>
 
