@@ -3,9 +3,9 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: 54f15c2af2f720ae353f168caf2a066697a8c895
+source-git-commit: 743c51f9736576d0c0d41bd8d4924c1fc2ca320f
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '187'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;">
-  <td> <strong style= "font-size: 2em">Torne-se um líder de IA gerativa.</strong><p> Torne-se um líder da IA gerativa. Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registrar</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Logon</span></a></td>
+  <td> <strong style= "font-size: 2em">Aumente seu conhecimento sobre IA generativa.  </strong><p>Domine as habilidades de IA gerativa para transformar seus fluxos de trabalho criativos e de marketing. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registrar</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Logon</span></a></td>
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
@@ -22,7 +22,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td align="center">
-    IA de geração de mestre <strong style= "font-size: 2em">. Transforme seus fluxos de trabalho.</strong><p>Saiba mais sobre as principais habilidades para usar IA gerativa em workflows de marketing. Em qualquer lugar. Gratuitamente.
+    <strong style= "font-size: 2em">Master generative AI with GenStudio Academy.</strong><p>Aprimore as habilidades essenciais para integrar IA gerativa em seus fluxos de trabalho de criação e marketing — a qualquer hora, em qualquer lugar e de forma totalmente gratuita.
   </td>
  </tr>
 </table>
@@ -31,8 +31,8 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;">
-  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-  <td align="center"> <strong style= "font-size: 2em">Habilidades de IA gerativas a qualquer momento.</strong><p> Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor. Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor. Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor.<p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Explorar agora</span></a></td>
+  <td><img src="./assets/generative-ai-for-marketing-simplified.png"></td>
+  <td align="center"> <strong style= "font-size: 2em">IA de geração para marketing. Simplificado.</strong><p> O GenStudio Academy transforma tarefas complexas de IA gerativa em cursos fáceis de seguir, como as diretrizes de transformação de marca. Por meio de guias e vídeos baixáveis, os alunos podem dominar a IA gerativa, um conceito por vez.<p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Explorar agora</span></a></td>
  </tr>
 </table>
 
@@ -40,20 +40,19 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;">
-  <td align="center"> <strong style= "font-size: 2em">Analisar a IA de geração para marketing.</strong><p> Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor. Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor. Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor.</td>
+  <td align="center"> <strong style= "font-size: 2em">Níveis de aprendizado. Oportunidade sem limites desbloqueada.</strong><p>Com os níveis de domínio do GenStudio Academy, é simples encontrar conteúdo que melhore suas habilidades de IA gerativas, seja aprendendo sobre LLMs, dominando a criação imediata ou vendo as ferramentas de IA em ação. A GenStudio Academy tem uma coisa para todo mundo.</td>
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
 
 
 <table>
- <tr style= "border: 0;colspan: 3;">
-  <td colspan="3"> <strong style= "font-size: 2em;">Em breve para a Genstudio Academy</strong></td>
- </tr> 
+ <!-- <tr style= "border: 0;colspan: 3;">
+  <td colspan=3> <strong style= "font-size: 2em;">Coming soon to Genstudio Academy</strong></td>
+ </tr> --> 
  <tr style= "border: 0;colspan: 3;"> 
-    <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-    <td align="center"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-    <td align="right"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+    <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>Dicas e truques para usar o GenStudio for Performance Marketing da maneira mais eficiente. </td>
+    <td align="right"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>Cursos avançados para desbloquear habilidades de IA de nível especializado em marketing. </td>
  </tr>
 </table>
 
@@ -62,15 +61,13 @@ ht-degree: 1%
 <table>
     <tr></tr>
  <tr style= "border: 0;">
- <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-  <td> <strong style= "font-size: 2em">Coloque seus aprendizados em prática</strong><p> Torne-se um líder da IA gerativa. Domine as habilidades de IA para transformar seus fluxos de trabalho e liderar o setor. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Leve-me até lá</span></a></td>
+ <td><img src="./assets/put-your-learnings-into-practice.png"></td>
+  <td> <strong style= "font-size: 2em">Coloque seus aprendizados em prática</strong><p>Explore o GenStudio for Performance Marketing com um aplicativo generativo AI-first que permite que as equipes de marketing criem seus próprios anúncios e emails para impulsionar campanhas de marketing impactantes e personalizadas.<p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Leve-me até lá</span></a></td>
  </tr>
     <tr></tr>
 </table>
 
 >[!ENDSHADEBOX]
-
->[!VIDEO](https://video.tv.adobe.com/v/3434938?autoplay=true&end=replay)
 
 <!--
 ## Heading 2 SHADEBOXES
