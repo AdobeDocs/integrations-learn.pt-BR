@@ -3,9 +3,9 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: 7a3346e4808f5e748f8272d537646370bf7b6fea
+source-git-commit: b8360aa54a2c925203b43bc9ac2b787ecb1519b4
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '207'
 ht-degree: 1%
 
 ---
@@ -66,7 +66,7 @@ ht-degree: 1%
       <strong>Aprendizado social</strong>
       </div>
       <p>
-      Aprenda com seus colegas e com seu conhecimento
+      Aprenda com seus colegas e com seus conhecimentos compartilhados facilmente em toda a organização.
       </p>
    </td>
    <td align="Center">
