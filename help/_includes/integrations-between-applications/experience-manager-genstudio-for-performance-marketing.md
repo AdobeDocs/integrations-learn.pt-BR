@@ -1,7 +1,7 @@
 ---
-source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
+source-git-commit: f3dfc96926bbff3fec05435a4d6f6783ae42ad6a
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '130'
 ht-degree: 2%
 
 ---
@@ -42,7 +42,11 @@ A integração do Adobe GenStudio for Performance Marketing e do Experience Mana
             <td>
                 <ul style="margin-top: 0;">
                     <li>Fazer upload, revisar e aprovar ativos da marca.</li>
+&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+                    <li>Crie variantes de imagens de ativos de marca aprovados para uso em experiências de marketing.</li>
+=======
                     <li>Crie variantes de imagens de ativos de marca aprovados para uso em experiências de marketing.</li>&lt;
+&gt;&gt;&gt;&gt;&gt;&gt; edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
                 </ul>
             </td>
         </tr>        
