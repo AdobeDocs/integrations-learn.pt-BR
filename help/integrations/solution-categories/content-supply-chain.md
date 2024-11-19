@@ -2,10 +2,10 @@
 title: Integrações de aplicativos para a cadeia de fornecimento de conteúdo
 description: Planejar, criar, personalizar e publicar conteúdo.
 exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 2%
+source-wordcount: '327'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +26,7 @@ Atender às expectativas dos clientes em tempo real para experiências personali
   </thead>
   <tbody>
 <tr>
-  <td><strong>Criar material de marketing usando ativos da marca</strong><br/></td>
+  <td rowspan="2"><strong>Criar material de marketing usando ativos da marca</strong><br/></td>
   <td>Crie e supervisione conteúdo e modelos de marketing por email usando AEM e Adobe [!DNL Campaign].</td>
   <td>
     <ul>
@@ -34,6 +34,16 @@ Atender às expectativas dos clientes em tempo real para experiências personali
     </ul>    
   </td>
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">[!DNL Campaign] e AEM</a></td>
+</tr>
+<tr>
+  <td>Crie experiências de marketing personalizadas na marca.</td>
+  <td>
+    <ul>
+      <li>Envie emails de marketing criados no GenStudio for Performance Marketing com imagens da AEM Assets.</li>
+      <li>Crie Metadados no GenStudio for Performance Marketing usando imagens da marca no AEM Assets.</li>
+    </ul>    
+  </td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md">GENSTUDIO FOR PERFORMANCE MARKETING e AEM</a></td>
 </tr>
 <tr>
   <td rowspan="3"><strong>Gerenciar a criação de ativos</strong><br/></td>

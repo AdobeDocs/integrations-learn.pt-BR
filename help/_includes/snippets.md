@@ -1,7 +1,7 @@
 ---
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '941'
 ht-degree: 2%
 
 ---
@@ -37,7 +37,7 @@ O Adobe Customer Jornada [!DNL Analytics] (CJA) é uma plataforma de análise of
 
 ## descrição do Experience Manager {#experience-manager-description}
 
-O Adobe Experience Manager (AEM) é um sistema de gerenciamento de conteúdo (CMS) que permite que as organizações criem, gerenciem e entreguem conteúdo digital em vários canais, como sites, aplicativos móveis e redes sociais. O AEM permite que as empresas personalizem conteúdo, otimizem as experiências dos clientes e avaliem a eficácia de suas estratégias digitais.
+O Adobe Experience Manager (AEM) é um sistema de gerenciamento de conteúdo (CMS) que permite às organizações criar, gerenciar e fornecer conteúdo digital em vários canais, como sites, aplicativos móveis e redes sociais. O AEM permite que as empresas personalizem conteúdo, otimizem as experiências dos clientes e avaliem a eficácia de suas estratégias digitais.
 
 ## Descrição do Experience Manager Forms {#experience-manager-forms-description}
 
@@ -46,6 +46,11 @@ O Adobe Experience Manager Forms é um componente do Adobe Experience Manager, p
 ## Descrição da experiência [!DNL Platform] {#experience-platform-description}
 
 A Adobe Experience [!DNL Platform] é o sistema mais poderoso, flexível e aberto do mercado para criar e gerenciar soluções completas que impulsionem a experiência do cliente. A experiência [!DNL Platform] permite que as organizações centralizem e padronizem dados e conteúdo de clientes de qualquer sistema e apliquem a ciência de dados e o aprendizado de máquina para melhorar o design e o delivery de experiências personalizadas.
+
+
+## Descrição do GenStudio for Performance Marketing {#genstudio-for-performance-marketing-description}
+
+O Adobe GenStudio for Performance Marketing é um aplicativo eficiente que simplifica a criação e o gerenciamento de conteúdo, integrando ativos aprovados pela marca e permitindo que os profissionais de marketing forneçam conteúdo personalizado e consistente em todos os canais em escala, melhorando o desempenho da campanha.
 
 ## Descrição do Journey Optimizer {#journey-optimizer-description}
 
