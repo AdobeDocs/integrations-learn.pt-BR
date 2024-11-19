@@ -11,15 +11,17 @@ doc-type: Feature Video
 duration: 416
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16484
-source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
+source-git-commit: 3a3d2542604a870efbe84fe3b7f1012483df3232
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
 
 # Criar variantes com o Adobe GenStudio
+
+[qi Voltar à visão geral da integração](./overview.md)
 
 Descubra como o AEM Assets as a Cloud Service e o Adobe Express trabalham em conjunto com a GenStudio for Performance Marketing para criar rapidamente variações de ativos personalizadas para campanhas de marketing coesas. Gere e adapte visuais facilmente para promoções de email e Meta ads, garantindo consistência e, ao mesmo tempo, direcionando públicos diversos para a mesma experiência de marketing.
 
