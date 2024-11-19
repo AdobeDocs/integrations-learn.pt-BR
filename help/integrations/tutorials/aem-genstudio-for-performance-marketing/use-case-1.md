@@ -11,7 +11,7 @@ doc-type: Feature Video
 duration: 295
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16483
-source-git-commit: 7d07f37f6267eda106f895cb367d42669f0d5c65
+source-git-commit: 911be1d339181609a94770b070f9187916fe7fe4
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Revisão e aprovação leves no Adobe GenStudio
 
-[Voltar à visão geral de integração](./overview.md)
+[qi Voltar à visão geral da integração](./overview.md)
 
 Saiba como fazer upload, revisar e aprovar ativos no AEM Assets as a Cloud Service para simplificar seu fluxo de trabalho de conteúdo. Depois de aprovados, esses ativos se integram perfeitamente ao GenStudio for Performance Marketing, garantindo acesso fácil a materiais aprovados pela marca para suas campanhas.
 
