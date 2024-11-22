@@ -3,10 +3,10 @@ user-guide-title: Tutoriais de integração da Experience Cloud
 breadcrumb-title: Integrações da Experience Cloud
 user-guide-description: Aprendizado de integrações.
 mini-toc-levels: 1
-source-git-commit: 6c6adc31c2c556373528841250c5c91ac42388a6
+source-git-commit: 49eeb3e1bfc5a22d8a8e57795f23539e131f98bc
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 21%
+source-wordcount: '120'
+ht-degree: 22%
 
 ---
 
@@ -106,5 +106,6 @@ ht-degree: 21%
       + [Visão geral](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
       + [Configuração](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
       + [Apresentação da integração](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
-      + [Revisão e aprovação no Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
-      + [Criar variantes com o Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
+      + Casos de uso{#use-cases}
+         + [Revisão e aprovação no Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
+         + [Criar variantes com o Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
