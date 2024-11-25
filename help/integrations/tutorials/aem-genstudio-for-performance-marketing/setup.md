@@ -11,17 +11,20 @@ doc-type: Article
 duration: 416
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16484
+index: true
+hidefromtoc: true
+badgeIntegration: label="Ativo AEM e GenStudio for Performance Marketing" type="positive"
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
-source-git-commit: c3d3d3076d495d01701dae09088ea0278c345299
+source-git-commit: ed6dd016008f48eab117f2b1597c0a1b42590c82
 workflow-type: tm+mt
-source-wordcount: '244'
-ht-degree: 0%
+source-wordcount: '264'
+ht-degree: 6%
 
 ---
 
-# Configuração
+# Configuração de ativos e GenStudio for Performance Marketing do AEM
 
-[qi Voltar à visão geral da integração](./overview.md)
+[▲ Voltar para a visão geral do AEM Asset e do GenStudio for Performance Marketing](./overview.md)
 
 Para começar a usar o Adobe GenStudio AEM Assets as a Cloud Service e o GenStudio for Performance Marketing, ambos os aplicativos precisam estar configurados corretamente. O processo de configuração envolve várias etapas que devem ser concluídas antes que você possa integrar totalmente o Adobe GenStudio ao AEM Assets e GenStudio for Performance Marketing.
 
@@ -101,7 +104,7 @@ Essas tarefas exigirão a colaboração com administradores que tenham as permis
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" title="Configurar o GenStudio for Performance Marketing">Configurar GenStudio for Performance Marketing</a>
                     </p>
-                    <p class="is-size-6">Saiba como começar a usar o GenStudio for Performance Marketing para gerar novo conteúdo de marketing alinhado à marca.</p>
+                    <p class="is-size-6">Saiba como começar a usar o GenStudio for Performance Marketing para gerar um novo conteúdo de marketing alinhado à marca.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
