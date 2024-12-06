@@ -15,7 +15,7 @@ index: true
 hidefromtoc: true
 badgeIntegration: label="Ativo AEM e GenStudio for Performance Marketing" type="positive"
 exl-id: 338762f2-179a-47ab-8ca8-d22921a0354d
-source-git-commit: ed6dd016008f48eab117f2b1597c0a1b42590c82
+source-git-commit: 2bbf8feb6eb83c7bd3f8d36ca821713e86dd8b4f
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Descubra como o AEM Assets as a Cloud Service e o Adobe Express trabalham em conjunto com a GenStudio for Performance Marketing para criar rapidamente variações de ativos personalizadas para campanhas de marketing coesas. Gere e adapte visuais facilmente para promoções de email e Meta ads, garantindo consistência e, ao mesmo tempo, direcionando públicos diversos para a mesma experiência de marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439266/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439266/?learn=on&enablevpops)
