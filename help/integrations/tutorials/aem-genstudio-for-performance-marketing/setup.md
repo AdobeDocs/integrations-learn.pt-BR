@@ -1,6 +1,6 @@
 ---
-title: Configurar o Adobe GenStudio usando GenStudio for Performance Marketing e AEM Assets
-description: Saiba como configurar a integração entre o AEM Assets e o GenStudio for Performance Marketing.
+title: Configurar o GenStudio for Performance Marketing e o AEM Assets
+description: Configure o Adobe GenStudio com o GenStudio for Performance Marketing e o AEM Assets para simplificar a criação de conteúdo e garantir a consistência da marca.
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
@@ -14,28 +14,28 @@ index: true
 hidefromtoc: true
 jira: KT-16484
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
-source-git-commit: 153f3ba3b335748d35be9a5dea0a3ec6f1c0e346
+source-git-commit: 8e3adf228592b60b2a226326e885f9e7359ff232
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '272'
 ht-degree: 7%
 
 ---
 
 # Configurar o GenStudio for Performance Marketing e o AEM Assets
 
-[▲ Voltar para a visão geral do AEM Asset e do GenStudio for Performance Marketing](./overview.md)
+[qi Voltar à visão geral do AEM Assets e do GenStudio for Performance Marketing](./overview.md)
 
 Para começar a usar o Adobe GenStudio com o AEM Assets as a Cloud Service e o GenStudio for Performance Marketing, verifique se os produtos necessários estão provisionados, ativados e configurados. Especificamente, você precisa acessar:
 
 * AEM Assets as a Cloud Service
 * AEM Assets Content Hub
-* GenStudio for Performance Marketing
+* GenStudio para marketing de desempenho
 
 Não são necessárias configurações adicionais para integrar esses produtos além de garantir que eles estejam disponíveis, configurados e acessíveis ao seu usuário.
 
 ## Guias de configuração
 
-Se esses produtos de Adobe ainda não estiverem configurados e ativados, consulte os guias a seguir para obter informações detalhadas sobre as etapas de configuração:
+Se esses produtos Adobe ainda não estiverem configurados e ativados, consulte os guias a seguir para obter etapas detalhadas de configuração:
 
 <!-- CARDS 
 
@@ -65,7 +65,7 @@ Se esses produtos de Adobe ainda não estiverem configurados e ativados, consult
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" title="Configurar o AEM Assets">Configurar AEM Assets</a>
                     </p>
-                    <p class="is-size-6">Descubra como navegar pela AEM Assets as a Cloud Service na exibição do Assets com esta seleção de listas de reprodução de vídeo com curadoria para aprimorar o conhecimento sobre o seu produto.</p>
+                    <p class="is-size-6">Descubra como navegar no AEM Assets as a Cloud Service na visualização do Assets com esta seleção de listas de reprodução de vídeo com curadoria para aprimorar o conhecimento sobre o produto.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
