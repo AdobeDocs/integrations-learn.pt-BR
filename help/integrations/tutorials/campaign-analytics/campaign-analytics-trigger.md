@@ -32,22 +32,22 @@ Saiba como Adobe Experimentar a Coleção de Dados do [!DNL Platform] e adiciona
 >
 > A Inicialização agora é o recurso de Marcas da Experiência do Adobe [!DNL Platform]. Ele pode ser encontrado em **Adobe Experience [!DNL Platform] Coleções de Dados**.
 
->[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454021?quality=12&learn=on&captions=por_br)
 
 ## Criar um acionador na Experience Cloud
 
 Saiba como configurar acionadores na Experience Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446143?quality=12&learn=on&captions=por_br)
 
 ## Criar um acionador no [!DNL Campaign] Standard
 
 Saiba como criar um evento de acionador no [!DNL Campaign] Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446414?quality=12&learn=on&captions=por_br)
 
 ## Configurar mensagens transacionais usando dados do evento em tempo real
 
 Saiba como configurar mensagens transacionais usando dados do evento em tempo real provenientes de acionadores.
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450207?quality=12&learn=on&captions=por_br)

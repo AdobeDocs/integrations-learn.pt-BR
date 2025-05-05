@@ -59,7 +59,7 @@ Os vídeos abaixo mostram diferentes recursos, tipos de atividades e benefícios
 
 O painel [!DNL Analytics] for [!DNL Target] (A4T) permite que você analise suas atividades e experiências do Adobe [!DNL Target], com leveza e confiança, no Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326713/?quality=12&learn=on&captions=por_br)
 
 ### Analisar uma Atividade Automática de [!DNL Target] usando o Painel A4T
 
