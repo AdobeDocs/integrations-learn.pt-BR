@@ -35,7 +35,7 @@ Alguns benefícios de usar o Adobe Experience Manager e o Adobe [!DNL Target] ju
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html" target="_blank" rel="noreferrer">AEM Headless as a Cloud Service [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html?lang=pt-BR" target="_blank" rel="noreferrer">AEM Headless as a Cloud Service [!DNL Target]</a></td>
             <td>Experimente a extensão de tags do SDK da Web [!DNL Platform] ou alloy.js</td>
             <td>
               <ul style="margin-top: 0;">
