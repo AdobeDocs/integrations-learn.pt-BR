@@ -41,7 +41,7 @@ ht-degree: 3%
                 </ul></li>
             <li>API do servidor Edge Network:</li>
                 <ul>
-                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html" _target="_blank" rel="noopener noreferrer">Tutorial</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html?lang=pt-BR" _target="_blank" rel="noopener noreferrer">Tutorial</a></li>
                 </ul>
        </ul>
     <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=pt-BR" _target="_blank" rel="noopener noreferrer">Criar segmentos na Experiência [!DNL Platform].</a> O sistema determina automaticamente se o segmento é avaliado como lote (conector de dados) ou fluxo (rede Edge).</li>
