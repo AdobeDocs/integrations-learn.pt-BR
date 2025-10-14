@@ -92,4 +92,4 @@ Para obter mais detalhes sobre cada fase e etapa do processo de integração, si
    * [Usando Tabelas, Visualizações e Painéis no Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html?lang=pt-BR)
    * [Casos de uso de visualização](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html?lang=pt-BR)
 
-   Além disso, há cursos gratuitos disponíveis no Experience League. Consulte [!DNL Analytics] cursos disponíveis [AQUI](https://experienceleague.adobe.com/pt-br?lang=en&amp;Solution=Analytics#courses).
+   Além disso, há cursos gratuitos disponíveis no Experience League. Consulte [!DNL Analytics] cursos disponíveis [AQUI](https://experienceleague.adobe.com/pt-br?lang=en&Solution=Analytics#courses).
