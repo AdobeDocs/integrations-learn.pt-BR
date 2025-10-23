@@ -3,10 +3,10 @@ user-guide-title: Tutoriais de integração da Experience Cloud
 breadcrumb-title: Integrações da Experience Cloud
 user-guide-description: Aprendizado de integrações.
 mini-toc-levels: 1
-source-git-commit: 2e76baa106c833668b7d966e4cfdbfaef8aabbd2
+source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 22%
+source-wordcount: '142'
+ht-degree: 26%
 
 ---
 
@@ -18,12 +18,12 @@ ht-degree: 22%
    + [Visão geral](./solution-categories/overview.md)
    + [Marketing B2B](./solution-categories/b2b.md)
    + [Commerce](./solution-categories/commerce.md)
-   + [Gestão de conteúdo](./solution-categories/content-management.md)
-   + [Cadeia de fornecimento de conteúdo](./solution-categories/content-supply-chain.md)
+   + [Gerenciamento de conteúdo](./solution-categories/content-management.md)
+   + [Supply chain de conteúdo](./solution-categories/content-supply-chain.md)
    + [Jornadas do cliente](./solution-categories/customer-journeys.md)
    + [Insights e ativação de dados](./solution-categories/data-insights.md)
    + [Personalization em escala](./solution-categories/personalization.md)
-+ Integrações de produto{#integrations-between-applications}
++ Integrações de produtos{#integrations-between-applications}
    + [Visão geral](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
       + [[!DNL Experience Manager]](./integrations-between-applications/acrobat-sign/acrobat-sign-experience-manager.md)
@@ -56,7 +56,7 @@ ht-degree: 22%
       + [[!DNL Analytics]](./integrations-between-applications/experience-manager/experience-manager-analytics.md)
       + [[!DNL Campaign]](./integrations-between-applications/experience-manager/experience-manager-campaign.md)
       + [[!DNL Commerce]](./integrations-between-applications/experience-manager/experience-manager-commerce.md)
-      + [GenStudio for Performance Marketing](./integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md)
+      + [GenStudio para marketing de desempenho](./integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md)
       + [[!DNL Journey Optimizer]](./integrations-between-applications/experience-manager/experience-manager-journey-optimizer.md)
       + [[!DNL Marketo Engage]](./integrations-between-applications/experience-manager/experience-manager-marketo.md)
       + [[!DNL Target]](./integrations-between-applications/experience-manager/experience-manager-target.md)
@@ -102,10 +102,17 @@ ht-degree: 22%
       + [Real-Time CDP e  [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
       + [Real-Time CDP e  [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
       + [Real-Time CDP e  [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
-   + GenStudio for Performance Marketing e Experience Manager {#genstudio-for-performance-marketing-experience-manager}
+   + GENSTUDIO FOR PERFORMANCE MARKETING e EXPERIENCE MANAGER {#genstudio-for-performance-marketing-experience-manager}
       + [Visão geral](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
       + [Configuração](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
       + [Apresentação da integração](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
       + Casos de uso{#use-cases}
          + [Revisão e aprovação no Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
          + [Criar variantes com o Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
+   + Experience Manager e Target{#experience-manager-target}
+      + [Visão geral](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview)
+      + [Configurar](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
+      + Casos de uso{#use-cases}
+         + [Experimentação (Teste A/B)](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+         + [Segmentação comportamental](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
+         + [Personalization de usuário conhecido](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)

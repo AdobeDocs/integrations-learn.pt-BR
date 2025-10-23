@@ -2,9 +2,9 @@
 title: Integrações de aplicativos para personalização em escala
 description: Torne as experiências personalizadas parte de cada momento.
 exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '533'
 ht-degree: 1%
 
 ---
@@ -32,7 +32,7 @@ No cenário altamente competitivo e orientado por tecnologias digitais atual, os
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Apresentar um NDA gerado dinamicamente com base nos dados de um AEM
+            Apresentar um NDA gerado dinamicamente com base nos dados de uma AEM
             Envio do Forms para assinatura
           </li>
         </ul>
@@ -49,7 +49,7 @@ No cenário altamente competitivo e orientado por tecnologias digitais atual, os
     <tr>
       <td rowspan="2"><strong>Análise de dados e relatórios</strong></td>
       <td>
-        Analisar dados comportamentais de experiências digitais <br />Usar Adobe
+        Analisar dados comportamentais de experiências digitais <br />Usar o Adobe
         [!DNL Analytics] dados comportamentais no Analysis Workspace na Jornada do cliente
         [!DNL Analytics].
       </td>
@@ -118,7 +118,7 @@ No cenário altamente competitivo e orientado por tecnologias digitais atual, os
         <strong>Expandir públicos para plataformas de personalização e publicidade</strong>
       </td>
       <td>
-        Use segmentos Audience Manager para criar públicos-alvo no Real-Time CDP para
+        Use segmentos do Audience Manager para criar públicos no Real-Time CDP para
         uso em táticas de personalização e re-marketing.
       </td>
       <td>
@@ -132,10 +132,10 @@ No cenário altamente competitivo e orientado por tecnologias digitais atual, os
             características de dispositivo e comportamento conhecidas
           </li>
           <li>
-            Aproveite a rede de dados de terceiros do Audience Manager para
+            Aproveite a rede de dados de terceiros da Audience Manager para
             refinar e expandir seus públicos para direcionamento
           </li>
-          <li>Compartilhar segmentos de Audience Manager para a RTCDP</li>
+          <li>Compartilhar segmentos do Audience Manager com a RTCDP</li>
         </ul>
       </td>
       <td>
@@ -178,11 +178,11 @@ No cenário altamente competitivo e orientado por tecnologias digitais atual, os
       <td rowspan="2"><strong>Personalizar experiências da Web</strong></td>
       <td>
         Personalize experiências de aplicativo de página única (SPA) com eficiência
-        utilizando AEM Headless em conjunto com o Adobe [!DNL Target].
+        utilizando o AEM Headless em conjunto com o Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>Personalização de SPA e aplicativo móvel</li>
+          <li>Personalização de aplicativos móveis e SPA</li>
           <li>Respostas da API personalizadas.</li>
           <li>[!DNL Target]Enviar entrega de conteúdo.</li>
           <li>Variações do teste A/B.</li>
@@ -205,9 +205,9 @@ No cenário altamente competitivo e orientado por tecnologias digitais atual, os
       <td>
         <ul style="margin-top: 0;">
           <li>Personalização do site do AEM.</li>
-          <li>Personalizar o conteúdo do site.</li>
-          <li>Otimize as experiências do usuário.</li>
           <li>Variações do teste A/B.</li>
+          <li>Segmentação comportamental com base no comportamento do usuário.</li>
+          <li>Personalização de usuário conhecido ao compilar dados do usuário de vários sistemas, fornecendo uma visualização de 360 graus do cliente.</li>
         </ul>
       </td>
       <td>
