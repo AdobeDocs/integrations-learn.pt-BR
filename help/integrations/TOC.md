@@ -3,10 +3,10 @@ user-guide-title: Tutoriais de integração da Experience Cloud
 breadcrumb-title: Integrações da Experience Cloud
 user-guide-description: Aprendizado de integrações.
 mini-toc-levels: 1
-source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
+source-git-commit: a5f6fdd10569618e495750e1bcd4cf604cbf142c
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 26%
+source-wordcount: '145'
+ht-degree: 25%
 
 ---
 
@@ -110,9 +110,10 @@ ht-degree: 26%
          + [Revisão e aprovação no Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
          + [Criar variantes com o Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
    + Experience Manager e Target{#experience-manager-target}
-      + [Visão geral](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/cloud-service/personalization/overview)
-      + [Configurar](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
+      + [Visão geral](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview)
+      + [Demonstração ao vivo](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/live-demo)
+      + [Configurar](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
       + Casos de uso{#use-cases}
-         + [Experimentação (Teste A/B)](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+         + [Experimentação (Teste A/B)](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
          + [Segmentação comportamental](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
-         + [Personalization de usuário conhecido](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
+         + [Personalization de usuário conhecido](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
