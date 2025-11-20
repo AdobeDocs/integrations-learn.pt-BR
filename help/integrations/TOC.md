@@ -110,10 +110,10 @@ ht-degree: 25%
          + [Revisão e aprovação no Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
          + [Criar variantes com o Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
    + Experience Manager e Target{#experience-manager-target}
-      + [Visão geral](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/cloud-service/personalization/overview)
-      + [Demonstração ao vivo](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/cloud-service/personalization/live-demo)
-      + [Configurar](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
+      + [Visão geral](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview)
+      + [Demonstração ao vivo](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/live-demo)
+      + [Configurar](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
       + Casos de uso{#use-cases}
-         + [Experimentação (Teste A/B)](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+         + [Experimentação (Teste A/B)](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
          + [Segmentação comportamental](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
-         + [Personalization de usuário conhecido](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
+         + [Personalization de usuário conhecido](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
