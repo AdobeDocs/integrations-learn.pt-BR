@@ -4,7 +4,7 @@ description: Saiba como integrar o Adobe [!DNL Analytics] com o Adobe [!DNL Targ
 solution: Analytics, Target
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
 index: true
 hidefromtoc: true
@@ -13,10 +13,10 @@ thumbnail: null
 last-substantial-update: 2023-04-11T00:00:00Z
 badgeIntegration: label="Integração" type="positive"
 exl-id: 4ab6c61f-f14e-408a-a700-53f7b3d0600a
-source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
+source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
 workflow-type: tm+mt
-source-wordcount: '389'
-ht-degree: 1%
+source-wordcount: '437'
+ht-degree: 9%
 
 ---
 
@@ -29,14 +29,14 @@ Os vídeos abaixo mostram a importância de usar essa integração, bem como det
 
 >[!NOTE]
 >
->Esses vídeos demonstram a implementação e validação para [!DNL Target] at.js e [!DNL Analytics] appMeasurement.js. Consulte a [documentação](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=pt-BR) para obter as versões da biblioteca necessárias em ambas as ferramentas.
+>Esses vídeos demonstram a implementação e validação para [!DNL Target] at.js e [!DNL Analytics] appMeasurement.js. Consulte a [documentação](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html) para obter as versões da biblioteca necessárias em ambas as ferramentas.
 
 ### Configurando o A4T ([!DNL Analytics] para [!DNL Target])
 
 Neste vídeo, destinado a um desenvolvedor, você aprende a:
 
 * Explicar como as solicitações [!DNL Analytics] e [!DNL Target] se vinculam usando a SDID
-* Descrever requisitos de implementação para o Adobe [!DNL Analytics] com Adobe [!DNL Target] (A4T)
+* Descrever requisitos de implementação para o Adobe [!DNL Analytics] com o Adobe [!DNL Target] (A4T)
 
 >[!VIDEO](https://video.tv.adobe.com/v/35146/?quality=12&learn=on)
 
@@ -59,7 +59,7 @@ Os vídeos abaixo mostram diferentes recursos, tipos de atividades e benefícios
 
 O painel [!DNL Analytics] for [!DNL Target] (A4T) permite que você analise suas atividades e experiências do Adobe [!DNL Target], com leveza e confiança, no Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/326713/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
 ### Analisar uma Atividade Automática de [!DNL Target] usando o Painel A4T
 
@@ -79,9 +79,9 @@ Uma atividade de Alocação automática identifica um vencedor entre duas ou mai
 
 ## Configuração de relatórios A4T no Analysis Workspace para atividades Auto[!DNL Target] {#a4t-auto-target}
 
-A integração do [!DNL Analytics] for [!DNL Target] (A4T) para atividades Auto-[!DNL Target] usa os algoritmos de aprendizado de máquina (ML) do conjunto Adobe [!DNL Target] para escolher a melhor experiência para cada visitante com base em seu perfil, comportamento e contexto, tudo isso ao usar uma métrica de meta Adobe [!DNL Analytics].
+A integração do [!DNL Analytics] for [!DNL Target] (A4T) para atividades Auto[!DNL Target] usa os algoritmos de aprendizado de máquina (ML) do conjunto do Adobe [!DNL Target] para escolher a melhor experiência para cada visitante com base em seu perfil, comportamento e contexto, tudo isso ao usar uma métrica de meta do Adobe [!DNL Analytics].
 
-Embora os recursos de análise avançada estejam disponíveis no Adobe [!DNL Analytics] Analysis Workspace, algumas modificações no padrão [!DNL Analytics] para o painel [!DNL Target] são necessárias para interpretar corretamente as atividades Auto[!DNL Target], devido a diferenças entre as atividades de experimentação (Teste A/B manual e Alocação automática) e as atividades de personalização (Auto-[!DNL Target]).
+Embora os recursos de análise avançada estejam disponíveis no Analysis Workspace do Adobe [!DNL Analytics], algumas modificações no painel padrão [!DNL Analytics] para [!DNL Target] são necessárias para interpretar corretamente as atividades Auto[!DNL Target], devido a diferenças entre as atividades de experimentação (Teste A/B manual e Alocação automática) e as atividades de personalização (Auto[!DNL Target]).
 
 <a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html?lang=pt-BR" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
   <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Configurar relatórios do A4T para atividades Auto[!DNL Target]</span>

@@ -13,10 +13,10 @@ thumbnail: null
 last-substantial-update: 2023-07-26T00:00:00Z
 badgeIntegration: label="Integração" type="positive"
 exl-id: dbbaeeff-2c31-45c2-85af-ad1b80ba6c9c
-source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
+source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 44%
+ht-degree: 46%
 
 ---
 
@@ -24,30 +24,30 @@ ht-degree: 44%
 
 Saiba como configurar e usar acionadores para mensagens transacionais.
 
-## Configurar a coleta de dados da experiência do Adobe [!DNL Platform] para acionadores
+## Configurar a coleção de dados do Adobe Experience [!DNL Platform] para acionadores
 
-Saiba como Adobe Experimentar a Coleção de Dados do [!DNL Platform] e adicionar as propriedades necessárias ao seu site para testar sua configuração.
+Saiba como coletar dados do Adobe Experience [!DNL Platform] e adicionar as propriedades necessárias ao seu site para testar sua configuração.
 
 >[!IMPORTANT]
 >
-> A Inicialização agora é o recurso de Marcas da Experiência do Adobe [!DNL Platform]. Ele pode ser encontrado em **Adobe Experience [!DNL Platform] Coleções de Dados**.
+> A Inicialização agora é o recurso de Tags da Adobe Experience [!DNL Platform]. Ele pode ser encontrado em **Coleções de Dados da Adobe Experience [!DNL Platform]**.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454021?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
 
 ## Criar um acionador na Experience Cloud
 
 Saiba como configurar acionadores na Experience Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446143?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/332624?quality=12&learn=on)
 
 ## Criar um acionador no [!DNL Campaign] Standard
 
 Saiba como criar um evento de acionador no [!DNL Campaign] Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446414?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12&learn=on)
 
 ## Configurar mensagens transacionais usando dados do evento em tempo real
 
 Saiba como configurar mensagens transacionais usando dados do evento em tempo real provenientes de acionadores.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450207?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12&learn=on)

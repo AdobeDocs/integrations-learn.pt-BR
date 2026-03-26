@@ -1,13 +1,13 @@
 ---
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '138'
 ht-degree: 2%
 
 ---
 
 
-# Integração de dados do cliente em tempo real do Adobe [!DNL Platform] e Adobe [!DNL Target]
+# Integração entre o Adobe Real-time Customer Data [!DNL Platform] e o Adobe [!DNL Target]
 
 {{real-time-cdp-description}}
 
@@ -31,7 +31,7 @@ Integrar o Real-Time CDP com o [!DNL Target] oferece a capacidade de personaliza
     <tbody>
     <tr>
         <td><a href="../../integrations/tutorials/rtcdp-target/web-sdk-and-target-destination.md" target="_blank" rel="noreferrer">REAL-TIME CDP e [!DNL Target]</a></td>
-        <td>SDK da Web e destino [!DNL Target]</td>
+        <td>Web SDK e destino [!DNL Target]</td>
         <td>
             <ul style="margin-top: 0;">
                 <li>Quando quiser o compartilhamento mais rápido de dados do Real-Time CDP para o [!DNL Target] no seu site.</li>
@@ -43,7 +43,8 @@ Integrar o Real-Time CDP com o [!DNL Target] oferece a capacidade de personaliza
             </ul>
         </td>
     </tr>
-    <!--<tr>
+    <!--
+    <tr>
         <td>Real-Time CDP and [!DNL Target]</a></td>
         <td><a href="../../integrations/tutorials/rtcdp-target/mobile-sdk-and-target-destination.md" target="_blank" rel="noreferrer">Mobile SDK and [!DNL Target] destination</td>
         <td>
@@ -70,6 +71,7 @@ Integrar o Real-Time CDP com o [!DNL Target] oferece a capacidade de personaliza
                 <li>Supports next-session personalization.</li>
             </ul>
         </td>
-    </tr>    -->
+    </tr>    
+    -->
     </tbody>
 </table>
