@@ -40,13 +40,13 @@ Se esses produtos Adobe ainda não estiverem configurados e ativados, consulte o
 <!--
 CARDS 
 
-* https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view
+* https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/assets/video-playlists/assets-view
    {title=Set up AEM Assets}
-* https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/set-up
+* https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/assets/content-hub/set-up
    {title=Enable AEM Assets Content Hub}
-* https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started
+* https://experienceleague.adobe.com/pt-br/docs/genstudio-for-performance-marketing/user-guide/get-started
    {title=Set up GenStudio for Performance Marketing}
-   {image=https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/media_1dd8829962c9e37e1251f3d2d92f5d72c8a58cdaf.png?width=2000&format=webply&optimize=medium}
+   {image=https://experienceleague.adobe.com/pt-br/docs/genstudio-for-performance-marketing/user-guide/media_1dd8829962c9e37e1251f3d2d92f5d72c8a58cdaf.png?width=2000&format=webply&optimize=medium}
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -55,8 +55,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" title="Configurar o AEM Assets" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view./media_1e4b209baa6169af9b0aefff8a2f1f39816aa6b42.png?width=400&format=png&optimize=medium" alt="Configurar o AEM Assets"
+                    <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/assets/video-playlists/assets-view" title="Configurar o AEM Assets" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/assets/video-playlists/assets-view./media_1e4b209baa6169af9b0aefff8a2f1f39816aa6b42.png?width=400&format=png&optimize=medium" alt="Configurar o AEM Assets"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -64,11 +64,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" title="Configurar o AEM Assets">Configurar AEM Assets</a>
+                        <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" title="Configurar o AEM Assets">Configurar AEM Assets</a>
                     </p>
                     <p class="is-size-6">Descubra como navegar no AEM Assets as a Cloud Service na visualização do Assets com esta seleção de listas de reprodução de vídeo com curadoria para aprimorar o conhecimento sobre o produto.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
                 </a>
             </div>
@@ -101,8 +101,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started" title="Configurar o GenStudio for Performance Marketing" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/media_1dd8829962c9e37e1251f3d2d92f5d72c8a58cdaf.png?width=400&format=webply&optimize=medium" alt="Configurar o GenStudio for Performance Marketing"
+                    <a href="https://experienceleague.adobe.com/pt-br/docs/genstudio-for-performance-marketing/user-guide/get-started" title="Configurar o GenStudio for Performance Marketing" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/pt-br/docs/genstudio-for-performance-marketing/user-guide/media_1dd8829962c9e37e1251f3d2d92f5d72c8a58cdaf.png?width=400&format=webply&optimize=medium" alt="Configurar o GenStudio for Performance Marketing"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -110,11 +110,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" title="Configurar o GenStudio for Performance Marketing">Configurar GenStudio for Performance Marketing</a>
+                        <a href="https://experienceleague.adobe.com/pt-br/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" title="Configurar o GenStudio for Performance Marketing">Configurar GenStudio for Performance Marketing</a>
                     </p>
                     <p class="is-size-6">Saiba como começar a usar o GenStudio for Performance Marketing para gerar um novo conteúdo de marketing alinhado à marca.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/pt-br/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
                 </a>
             </div>
