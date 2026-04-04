@@ -12,10 +12,9 @@ duration: 295
 last-substantial-update: 2024-11-20T00:00:00Z
 jira: KT-16483
 index: true
-hidefromtoc: false
 badgeIntegration: label="AEM Asset e GenStudio for Performance Marketing" type="positive"
 exl-id: 635c1a73-4abe-4e22-8755-f3fbc8f0b46e
-source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -28,4 +27,4 @@ ht-degree: 0%
 
 Saiba como fazer upload, revisar e aprovar ativos no AEM Assets as a Cloud Service para simplificar seu fluxo de trabalho de conteúdo. Depois de aprovados, esses ativos se integram perfeitamente ao GenStudio for Performance Marketing, garantindo acesso fácil a materiais aprovados pela marca para suas campanhas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439293/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439265/?learn=on&enablevpops)

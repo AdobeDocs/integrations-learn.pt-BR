@@ -7,13 +7,12 @@ topic: Integrations
 role: Leader, Admin, Developer
 level: Beginner
 index: true
-hidefromtoc: true
 kt: null
 thumbnail: null
 last-substantial-update: 2023-04-11T00:00:00Z
 badgeIntegration: label="Integração" type="positive"
 exl-id: 4ab6c61f-f14e-408a-a700-53f7b3d0600a
-source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
 source-wordcount: '437'
 ht-degree: 9%
@@ -29,7 +28,7 @@ Os vídeos abaixo mostram a importância de usar essa integração, bem como det
 
 >[!NOTE]
 >
->Esses vídeos demonstram a implementação e validação para [!DNL Target] at.js e [!DNL Analytics] appMeasurement.js. Consulte a [documentação](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=pt-BR) para obter as versões da biblioteca necessárias em ambas as ferramentas.
+>Esses vídeos demonstram a implementação e validação para [!DNL Target] at.js e [!DNL Analytics] appMeasurement.js. Consulte a [documentação](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html) para obter as versões da biblioteca necessárias em ambas as ferramentas.
 
 ### Configurando o A4T ([!DNL Analytics] para [!DNL Target])
 
@@ -59,7 +58,7 @@ Os vídeos abaixo mostram diferentes recursos, tipos de atividades e benefícios
 
 O painel [!DNL Analytics] for [!DNL Target] (A4T) permite que você analise suas atividades e experiências do Adobe [!DNL Target], com leveza e confiança, no Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/326713/?captions=por_br&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
 ### Analisar uma Atividade Automática de [!DNL Target] usando o Painel A4T
 

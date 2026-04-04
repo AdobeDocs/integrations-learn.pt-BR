@@ -7,11 +7,10 @@ topic: Integrations
 role: Leader, Admin, Developer
 level: Beginner
 index: true
-hidefromtoc: true
 last-substantial-update: 2023-07-25T00:00:00Z
 badgeIntegration: label="Integração" type="positive"
 exl-id: 1b589687-eebc-457f-b1fc-72768cb79006
-source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -31,22 +30,22 @@ Obtenha uma visão geral e uma demonstração da integração.
 
 Saiba como configurar o destino do Adobe [!DNL Target] em Dados do cliente em tempo real [!DNL Platform].
 
->[!VIDEO](https://video.tv.adobe.com/v/3449798/?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418799/?learn=on)
 
 ## Ativar segmentos e atributos de perfil para o Adobe [!DNL Target]
 
 Saiba como ativar segmentos e atributos de perfil dos Dados do cliente em tempo real do Adobe [!DNL Platform] para o Adobe [!DNL Target].
 
->[!VIDEO](https://video.tv.adobe.com/v/3447360/?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419036/?learn=on)
 
 ## Usar segmentos da Real-time CDP no Adobe [!DNL Target]
 
 Saiba como usar segmentos do Real-Time Customer Data [!DNL Platform] no Adobe [!DNL Target].
 
->[!VIDEO](https://video.tv.adobe.com/v/3446832/?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419149/?learn=on)
 
 ## Usar atributos de perfil da Real-time CDP no Adobe [!DNL Target]
 
 Saiba como usar os atributos de perfil do Adobe Real-time Customer Data [!DNL Platform] no Adobe [!DNL Target].
 
->[!VIDEO](https://video.tv.adobe.com/v/3451898/?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419318/?learn=on)
