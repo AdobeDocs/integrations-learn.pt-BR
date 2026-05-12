@@ -1,19 +1,28 @@
 ---
-title: Integrações de aplicativos para a cadeia de fornecimento de conteúdo
+title: Integrações de aplicativos para supply chain de conteúdo
 description: Planejar, criar, personalizar e publicar conteúdo.
 exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
-source-git-commit: 03f958e6a2754b23a4a7d21ee87107a777f10406
+TQID: https://experienceleague.adobe.com/1OyoS3OaD8POo-SLGbdX2fApV4MokuigC3sM9xv2ea0
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: 332
 ht-degree: 1%
 
 ---
 
-# Cadeia de fornecimento de conteúdo
+# Supply chain de conteúdo
 
 Planeje, crie, personalize e publique conteúdo inesquecível para cada cliente na velocidade de agora.
 
-Atender às expectativas dos clientes em tempo real para experiências personalizadas requer mais conteúdo digital do que nunca. Com as soluções de fluxo de trabalho criativo e gerenciamento de ativos do Adobe, suas equipes podem planejar, criar e fornecer conteúdo personalizado em escala que ofereça suporte à jornada do cliente em cada ponto de contato.
+Atender às expectativas dos clientes em tempo real para experiências personalizadas requer mais conteúdo digital do que nunca. Com as soluções de fluxo de trabalho criativo e gerenciamento de ativos da Adobe, suas equipes podem planejar, criar e fornecer conteúdo personalizado em escala que ofereça suporte à jornada do cliente em cada ponto de contato.
 
 <table>
  <thead>
@@ -27,7 +36,7 @@ Atender às expectativas dos clientes em tempo real para experiências personali
   <tbody>
 <tr>
   <td rowspan="2"><strong>Criar material de marketing usando ativos da marca</strong><br/></td>
-  <td>Crie e supervisione conteúdo e modelos de marketing por email usando AEM e Adobe [!DNL Campaign].</td>
+  <td>Crie e supervisione conteúdo e modelos de marketing por email usando o AEM e o Adobe [!DNL Campaign].</td>
   <td>
     <ul>
       <li>Enviar emails de marketing criados com o AEM</li>
@@ -40,7 +49,7 @@ Atender às expectativas dos clientes em tempo real para experiências personali
   <td>
     <ul>
       <li>Envie emails de marketing criados no GenStudio for Performance Marketing com imagens da AEM Assets.</li>
-      <li>Crie Metadados no GenStudio for Performance Marketing usando imagens da marca no AEM Assets.</li>
+      <li>Crie anúncios da Meta na GenStudio for Performance Marketing usando imagens da AEM Assets.</li>
     </ul>    
   </td>
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md">GENSTUDIO FOR PERFORMANCE MARKETING e AEM</a></td>

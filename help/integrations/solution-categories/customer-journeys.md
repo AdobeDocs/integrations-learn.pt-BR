@@ -2,9 +2,20 @@
 title: Integrações de aplicativos para a jornada do cliente
 description: Desenvolva perfis de clientes em tempo real obtendo dados de todas as fontes para criar jornadas personalizadas entre canais.
 exl-id: eb653b89-db0f-433a-8641-bbeb32197096
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+TQID: https://experienceleague.adobe.com/XkEYtGUFWDMXc-qm4PMeRVNK8hduYOZ7sj2fkyWMCZM
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
+  - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: 298
 ht-degree: 2%
 
 ---
@@ -26,7 +37,7 @@ Desenvolva perfis de clientes em tempo real obtendo dados de todas as fontes par
   <tbody>
 <tr>
   <td><strong>Criar material de marketing usando ativos da marca</strong><br></td>
-  <td>Crie e supervisione conteúdo e modelos de marketing por email usando AEM e Adobe [!DNL Campaign].</td>
+  <td>Crie e supervisione conteúdo e modelos de marketing por email usando o AEM e o Adobe [!DNL Campaign].</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Enviar emails de marketing criados com o AEM</li>
@@ -75,7 +86,7 @@ Desenvolva perfis de clientes em tempo real obtendo dados de todas as fontes par
   <td>Melhore as campanhas de marketing com públicos-alvo e dados de perfil.</td>
   <td>
     <ul style="margin-top: 0;">
-      <li>Melhore sua campanha de marketing com dados da AEP para segmentação de público</li>
+      <li>Melhore sua campanha de marketing com dados do AEP para segmentação de público</li>
     </ul>
   </td>
  <td><a href="../integrations-between-applications/campaign/campaign-rtcdp.md">[!DNL Campaign] v8 e Dados do cliente em tempo real [!DNL Platform]</a></td>

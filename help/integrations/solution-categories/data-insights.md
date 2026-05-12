@@ -2,9 +2,23 @@
 title: Integrações de aplicativos para insights e ativações de dados
 description: Impulsione a personalização em tempo real em qualquer canal usando insights de dados online e offline em toda a organização.
 exl-id: 9f22085a-306e-48e8-9b86-6429d851df58
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+TQID: https://experienceleague.adobe.com/zkqCV7vW8y8lOyV58jQVQImIskKiMqN2oecEKhg6Vd0
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: c4147b6e-073b-4d3c-9ab1-d60f2f4434ef
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: fc314d1d-7cb9-4a38-8dbd-8f9b6478f40d
+  - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: 560
 ht-degree: 1%
 
 ---
@@ -30,7 +44,7 @@ Impulsione a personalização em tempo real em qualquer canal usando insights de
    <td rowspan="8"><b>Análise de dados e relatórios</b></td>
 
 <!--  ROW 2a  -->
-<td>Analise os resultados do teste de otimização, incluindo o teste A/B, usando o Adobe [!DNL Target] e gerando relatórios abrangentes pelo Adobe [!DNL Analytics].</td>
+<td>Analise os resultados do teste de otimização, incluindo o teste A/B, usando o Adobe [!DNL Target] e gerando relatórios abrangentes por meio do Adobe [!DNL Analytics].</td>
    <td><ul style="margin-top: 0;">
         <li>Mostrar resultados do teste A/B em relatórios de análise avançada.</li>
        </ul></td>
@@ -39,7 +53,7 @@ Impulsione a personalização em tempo real em qualquer canal usando insights de
 
 <!--  ROW 2b  -->
 <tr>
-   <td>Envie dados de segmento de Audience Manager para [!DNL Analytics] para análise, descoberta e otimização mais profundas do público-alvo.</td>
+   <td>Envie dados de segmento do Audience Manager para [!DNL Analytics] para análise, descoberta e otimização mais profundas do público-alvo.</td>
     <td><ul style="margin-top: 0;">
         <li>Envie dados de segmento de terceiros para [!DNL Analytics] para análise mais profunda do usuário.</li>
         <li>Enviar dados do CRM para [!DNL Analytics] para inclusão na análise de usuário.</li>
@@ -51,7 +65,7 @@ Impulsione a personalização em tempo real em qualquer canal usando insights de
 <tr>
    <td>Expanda os públicos-alvo para plataformas de personalização e publicidade.</td>
     <td><ul style="margin-top: 0;">
-        <li>Use o encaminhamento pelo lado do servidor para enviar dados do [!DNL Analytics] ao Audience Manager para criar segmentos.</li>
+        <li>Use o encaminhamento pelo lado do servidor para enviar dados do [!DNL Analytics] ao Audience Manager a fim de criar segmentos.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/aam/aam-analytics.md" target="_blank" rel="noopener noreferrer">AUDIENCE MANAGER e [!DNL Analytics]</a></td>
  </tr>
@@ -67,7 +81,7 @@ Impulsione a personalização em tempo real em qualquer canal usando insights de
 
 <!--  ROW 2e  -->
 <tr>
-   <td>Rastreie, analise e relate a atividade de usuários nos sites da AEM Sites usando o Adobe [!DNL Analytics] para obter relatórios e insights abrangentes.</td>
+   <td>Acompanhe, analise e relate a atividade de usuários nos sites da AEM Sites usando o Adobe [!DNL Analytics] para obter relatórios e insights abrangentes.</td>
    <td><ul style="margin-top: 0;">
         <li>Rastrear, analisar e gerar relatórios sobre as métricas principais das páginas do site.</li>
         <li>Use os relatórios do [!DNL Analytics] para tomar decisões orientadas por dados para a experiência do usuário e a estratégia de conteúdo.</li>
@@ -99,7 +113,7 @@ Impulsione a personalização em tempo real em qualquer canal usando insights de
 
 <!--  ROW 2h  -->
 <tr>
-   <td>Use dados comportamentais de Adobe [!DNL Analytics] no Analysis Workspace na Jornada do cliente [!DNL Analytics].</td>
+   <td>Use os dados comportamentais [!DNL Analytics] do Adobe no Analysis Workspace na Jornada do cliente [!DNL Analytics].</td>
    <td><ul style="margin-top: 0;">
         <li>Analise o engajamento e a conversão do canal.</li>
         <li>Entender as principais categorias e produtos.</li>
@@ -126,18 +140,18 @@ Impulsione a personalização em tempo real em qualquer canal usando insights de
 <tr>
   <td>Melhore as campanhas de marketing com públicos-alvo e dados de perfil.</td>
   <td><ul style="margin-top: 0;">
-        <li>Aprimore sua campanha de marketing com os dados da AEP para segmentação de público-alvo.</li>
+        <li>Melhore sua campanha de marketing com dados do AEP para segmentação de público.</li>
       </ul></td>
    <td><a href="../integrations-between-applications/campaign/campaign-rtcdp.md">[!DNL Campaign] v8 e Dados do cliente em tempo real [!DNL Platform]</a></td>
  </tr>
 
 <!--  ROW 3d  -->
 <tr>
-  <td>Use segmentos Audience Manager para criar públicos no Real-Time CDP para usar na personalização e no remarketing.</td>
+  <td>Use segmentos do Audience Manager para criar públicos no Real-Time CDP para usar na personalização e no remarketing.</td>
   <td><ul style="margin-top: 0;">
         <li>Realize o direcionamento e a personalização anônimos do público-alvo digital no site, no aplicativo móvel ou nos canais de publicidade compatíveis.</li>
         <li>Otimize as experiências de página de aterrissagem e pré-autenticação com base em características de dispositivo e comportamento conhecidas.</li>
-        <li>Aplique o Audience Manager rede de dados de terceiros para refinar e expandir ainda mais seus públicos-alvo para direcionamento.</li>
+        <li>Aplique a rede de dados de terceiros do Audience Manager para refinar e expandir ainda mais seus públicos-alvo para direcionamento.</li>
       </ul></td>
   <td><a href="../integrations-between-applications/aam/aam-rtcdp.md" target="_blank" rel="noopener noreferrer">Audience Manager e dados do cliente em tempo real [!DNL Platform]</a></td>
  </tr>
