@@ -1,7 +1,7 @@
 ---
 source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '276'
 ht-degree: 1%
 
 ---
@@ -27,7 +27,7 @@ Alguns benefícios de usar o Adobe Experience Manager e o Adobe [!DNL Target] ju
 <table>
     <thead>
         <tr>
-            <th>aplicativos Experience Cloud</th>
+            <th>Aplicativos da Experience Cloud</th>
             <th>Integra-se usando o</th>
             <th>Quando usar</th>
             <th>Casos de uso comuns</th>
