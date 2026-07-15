@@ -1,13 +1,13 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '228'
 ht-degree: 1%
 
 ---
 
 
-# Integrar Adobe [!DNL Analytics] com Jornada do cliente [!DNL Analytics]
+# Integrar o Adobe [!DNL Analytics] à Jornada do cliente [!DNL Analytics]
 
 {{analytics-description}}
 
@@ -26,7 +26,7 @@ A integração do Adobe [!DNL Analytics] com a Jornada do cliente [!DNL Analytic
 <table>
     <thead>
         <tr>
-            <th>aplicativos Experience Cloud</th>
+            <th>Aplicativos da Experience Cloud</th>
             <th>Integra-se usando o</th>
             <th>Quando usar</th>
             <th>Casos de uso comuns</th>
@@ -55,7 +55,7 @@ A integração do Adobe [!DNL Analytics] com a Jornada do cliente [!DNL Analytic
             <td>
                 <ul style="margin-top: 0;">
                     <li>Abordagem recomendada para novas implementações do [!DNL Analytics] ou quando você deseja implementar uma estratégia de longo prazo.</li>
-                    <li>Envia dados diretamente de um dispositivo para a Experiência [!DNL Platform] usando o SDK da Web da AEP, o SDK móvel da AEP ou a API do servidor Edge Network.</li>
+                    <li>Envia dados diretamente de um dispositivo para a Experiência [!DNL Platform] usando o AEP Web SDK, o AEP Mobile SDK ou a API do Edge Network Server.</li>
                 </ul>
             </td>
             <td>

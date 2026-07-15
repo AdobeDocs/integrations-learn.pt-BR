@@ -1,7 +1,7 @@
 ---
 source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '276'
 ht-degree: 1%
 
 ---
@@ -27,7 +27,7 @@ Alguns benefícios de usar o Adobe Experience Manager e o Adobe [!DNL Target] ju
 <table>
     <thead>
         <tr>
-            <th>aplicativos Experience Cloud</th>
+            <th>Aplicativos da Experience Cloud</th>
             <th>Integra-se usando o</th>
             <th>Quando usar</th>
             <th>Casos de uso comuns</th>
@@ -35,7 +35,7 @@ Alguns benefícios de usar o Adobe Experience Manager e o Adobe [!DNL Target] ju
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/cloud-service/personalization/overview" target="_blank" rel="noreferrer">AEM SITES e [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview" target="_blank" rel="noreferrer">AEM SITES e [!DNL Target]</a></td>
             <td>Experimente a extensão de tags do Web SDK [!DNL Platform] ou alloy.js</td>
             <td>
                 <ul style="margin-top: 0;">
@@ -52,7 +52,7 @@ Alguns benefícios de usar o Adobe Experience Manager e o Adobe [!DNL Target] ju
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html?lang=pt-BR" target="_blank" rel="noreferrer">AEM Headless as a Cloud Service e [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html" target="_blank" rel="noreferrer">AEM Headless as a Cloud Service e [!DNL Target]</a></td>
             <td>Experimente a extensão de tags do Web SDK [!DNL Platform] ou alloy.js</td>
             <td>
               <ul style="margin-top: 0;">

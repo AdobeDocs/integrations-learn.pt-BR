@@ -1,7 +1,7 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 {{real-time-cdp-description}}
 
-Integrar o Adobe [!DNL Analytics] com o Adobe Real-time Customer Data [!DNL Platform] (Real-Time CDP) pode oferecer vários benefícios para as empresas que buscam aprimorar suas experiências com os clientes e esforços de marketing. Estas são algumas das principais vantagens:
+Integrar o Adobe [!DNL Analytics] com o Adobe Real-time Customer Data [!DNL Platform] (Real-Time CDP) pode oferecer vários benefícios para as empresas que buscam aprimorar suas experiências com clientes e esforços de marketing. Estas são algumas das principais vantagens:
 
 + **Direcionamento e personalização aprimorados do público-alvo**: marketing preciso em dispositivos e canais, mensagens personalizadas para envolvimento otimizado.
 + **Otimização aprimorada da página de aterrissagem**: experiências personalizadas com base no dispositivo e no comportamento, melhorando a satisfação e a conversão do usuário.
@@ -24,7 +24,7 @@ Ao combinar o Adobe [!DNL Analytics] e o Real-Time CDP, as empresas podem elevar
 <table>
     <thead>
         <tr>
-            <th>aplicativos Experience Cloud</th>
+            <th>Aplicativos da Experience Cloud</th>
             <th>Integra-se usando o</th>
             <th>Quando usar</th>
             <th>Casos de uso comuns</th>
@@ -52,7 +52,7 @@ Ao combinar o Adobe [!DNL Analytics] e o Real-Time CDP, as empresas podem elevar
         <td>
             <ul style="margin-top: 0;">
                 <li>Abordagem recomendada para novas implementações do [!DNL Analytics] ou quando você deseja implementar uma estratégia de longo prazo.</li>
-                <li>Envia dados diretamente de um dispositivo para a Experiência [!DNL Platform] usando o SDK da Web da AEP, o SDK móvel da AEP ou a API do servidor Edge Network.</li>
+                <li>Envia dados diretamente de um dispositivo para a Experiência [!DNL Platform] usando o AEP Web SDK, o AEP Mobile SDK ou a API do Edge Network Server.</li>
                 <li>Clientes novos ou existentes que precisam da disponibilidade de dados do [!DNL Analytics] para o Perfil do cliente em tempo real para oferecer suporte a casos de uso de personalização da mesma página e da próxima página.</li>
             </ul>
         </td>

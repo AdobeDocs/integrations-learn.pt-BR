@@ -1,8 +1,8 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 1%
+source-wordcount: '258'
+ht-degree: 6%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 {{real-time-cdp-description}}
 
-Os principais benefícios da integração do Adobe Customer Jornada [!DNL Analytics] e do Adobe Real-Time CDP incluem\:
+Os principais benefícios da integração da Jornada ao cliente da Adobe [!DNL Analytics] e da Adobe Real-Time CDP incluem\:
 
 + **Visualização de 360 graus do cliente**: combina dados para uma visualização unificada da jornada do cliente, entendendo as interações e preferências.
 + **Personalização em tempo real**: oferece experiências relevantes instantaneamente com o Adobe Real-Time CDP.
@@ -28,7 +28,7 @@ Em geral, a integração do Adobe Customer Jornada [!DNL Analytics] e do Adobe R
 <table>
     <thead>
         <tr>
-            <th>aplicativos Experience Cloud</th>
+            <th>Aplicativos da Experience Cloud</th>
             <th>Integra-se usando o</th>
             <th>Quando usar</th>
             <th>Casos de uso comuns</th>
@@ -41,7 +41,7 @@ Em geral, a integração do Adobe Customer Jornada [!DNL Analytics] e do Adobe R
             <td>
                 <ul style="margin-top: 0;">
                     <li>Quando quiser usar um público-alvo do [!DNL Analytics] (CJA) da Jornada do cliente para uma jornada no Adobe Journey Optimizer.</li>
-                    <li>Quando você deseja exportar o público-alvo do CJA para terceiros por meio de um destino de Experiência [!DNL Platform].</li>
+                    <li>Quando quiser exportar o público-alvo da CJA para terceiros por meio de um destino da Experiência [!DNL Platform].</li>
                     <li>Quando quiser enriquecer o perfil do cliente em tempo real com atributos úteis derivados de dados baseados em eventos no CJA.</li>
                     <li>Faça tudo isso com latência mínima após a publicação do público-alvo no Real-Time CDP.</li>
                     <li>Quando você deseja publicar públicos-alvo únicos ou públicos-alvo recorrentes.</li>
