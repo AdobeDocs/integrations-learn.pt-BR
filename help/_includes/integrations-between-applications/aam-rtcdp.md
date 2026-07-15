@@ -35,7 +35,7 @@ A integração do Adobe Audience Manager e do Adobe Real-Time CDP oferece estes 
     <tbody>
         <tr>
             <td>
-                <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html" target="_blank" rel="noreferrer">Audience Manager e Real-Time CDP</a>
+                <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=pt-BR" target="_blank" rel="noreferrer">Audience Manager e Real-Time CDP</a>
             </td>
             <td>Conector de dados do Adobe Audience Manager</td>
             <td>
