@@ -1,8 +1,8 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 6%
+source-wordcount: '134'
+ht-degree: 5%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 6%
 
 {{target-description}}
 
-Os principais benefícios da integração do Adobe [!DNL Analytics] e Adobe [!DNL Target] (A4T) são:
+Os principais benefícios da integração do Adobe [!DNL Analytics] e do Adobe [!DNL Target] (A4T) são:
 
 + **Personalização orientada por dados**: use [!DNL Analytics] para atividades direcionadas no Adobe [!DNL Target], aprimorando as estratégias de personalização.
 + **Relatórios unificados**: a integração A4T combina relatórios [!DNL Target] e [!DNL Analytics] para análise abrangente.
@@ -23,7 +23,7 @@ Os principais benefícios da integração do Adobe [!DNL Analytics] e Adobe [!DN
 <table>
     <thead>
             <tr>
-                <th>aplicativos Experience Cloud</th>
+                <th>Aplicativos da Experience Cloud</th>
                 <th>Integra-se usando o</th>
                 <th>Quando usar</th>
                 <th>Casos de uso comuns</th>
