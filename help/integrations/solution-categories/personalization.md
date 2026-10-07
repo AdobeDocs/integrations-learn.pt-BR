@@ -5,26 +5,33 @@ exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
 TQID: https://experienceleague.adobe.com/vZyhtRi9XnWPLZww56VbOGNYzSMD0xxcXYPfa9PGrkw
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 feature_v2:
   - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+    internal-label: Integrations
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: c4147b6e-073b-4d3c-9ab1-d60f2f4434ef
+    internal-label: Behavioral data
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: e9001ce2-5245-4a8e-8601-dd958009072f
+    internal-label: Web experience
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
-source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
+    internal-label: Customer profiles
+source-git-commit: 4c51eef6f89060dc633dede5ea23e0f3ab445d0b
 workflow-type: tm+mt
-source-wordcount: 610
+source-wordcount: '612'
 ht-degree: 1%
-
 ---
-
 # Personalization em escala
 
-No cenário altamente competitivo e orientado por tecnologias digitais atual, os clientes acabaram esperando experiências personalizadas de acordo com suas preferências e necessidades exclusivas. Aproveitar os recursos do Adobe Experience Cloud nos permite coletar e analisar dados abrangentes do cliente, fornecendo insights inestimáveis sobre comportamentos, interesses e preferências. Essa compreensão profunda facilita a entrega de experiências personalizadas em vários pontos de contato, garantindo interações significativas e envolventes. Aproveitar o potencial do Adobe Experience Cloud libera todo o potencial de personalização, promovendo conexões mais fortes com o cliente, incentivando a fidelidade e impulsionando o crescimento dos negócios.
+No cenário altamente competitivo e orientado por tecnologias digitais atual, os clientes acabaram esperando experiências personalizadas de acordo com suas preferências e necessidades exclusivas. Aproveitar os recursos da Adobe Experience Cloud nos permite coletar e analisar grandes dados do cliente, fornecendo insights inestimáveis sobre comportamentos, interesses e preferências. Essa compreensão profunda facilita a entrega de experiências personalizadas em vários pontos de contato, garantindo interações significativas e envolventes. Aproveitar o potencial da Adobe Experience Cloud libera todo o potencial de personalização, promovendo conexões mais fortes com o cliente, incentivando a fidelidade e impulsionando o crescimento dos negócios.
 
 <table>
  <thead>
