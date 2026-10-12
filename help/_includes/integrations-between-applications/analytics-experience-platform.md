@@ -1,11 +1,9 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '150'
 ht-degree: 2%
-
 ---
-
 
 # Integrar o Adobe [!DNL Analytics] com a experiência [!DNL Platform]
 
@@ -26,7 +24,7 @@ Ao integrar essas plataformas, as empresas podem aproveitar os dados para obter 
 <table>
     <thead>
         <tr>
-            <th>aplicativos Experience Cloud</th>
+            <th>Aplicativos da Experience Cloud</th>
             <th>Integra-se usando o</th>
             <th>Quando usar</th>
             <th>Casos de uso comuns</th>
@@ -34,7 +32,7 @@ Ao integrar essas plataformas, as empresas podem aproveitar os dados para obter 
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=pt-BR" target="_blank" rel="noreferrer">[!DNL Analytics] e experiência [!DNL Platform]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html" target="_blank" rel="noreferrer">[!DNL Analytics] e experiência [!DNL Platform]</a></td>
             <td>Experiência do conector de origem [!DNL Platform]</td>
             <td>
                 <ul style="margin-top: 0;">
