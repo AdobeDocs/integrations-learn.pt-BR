@@ -1,21 +1,19 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 1%
-
+source-wordcount: '237'
+ht-degree: 2%
 ---
 
-
-# Integração de Experience Manager e Workfront
+# Integração do Experience Manager e do Workfront
 
 {{experience-manager-description}}
 
 {{workfront-description}}
 
-O AEM e o Workfront simplificam a produção de conteúdo, permitindo a importação perfeita de conteúdo gerenciado do Workfront para o AEM para uma organização e acesso eficientes, garantindo a entrega oportuna e de alta qualidade de ativos digitais. Os principais benefícios incluem:
+O AEM e o Workfront simplificam a produção de conteúdo, permitindo a importação contínua de conteúdo gerenciado do Workfront para o AEM, para organização e acesso eficientes, garantindo a entrega oportuna e de alta qualidade de ativos digitais. Os principais benefícios incluem:
 
-+ **Produção de conteúdo simplificada**: a integração do AEM e do Adobe Workfront otimiza o processo completo de criação de conteúdo.
++ **Produção de conteúdo simplificada**: a integração do AEM e do Adobe Workfront otimiza todo o processo de criação de conteúdo.
 + **Colaboração aprimorada**: as equipes podem colaborar facilmente em projetos de conteúdo, promovendo melhor comunicação e eficiência.
 + **Gerenciamento de recursos aprimorado**: as funcionalidades de acompanhamento de projetos da Workfront permitem uma melhor alocação e utilização de recursos.
 + **Aprovações e revisões eficientes**: a integração do AEM e do Workfront simplifica os fluxos de trabalho de revisão e aprovação de conteúdo.
@@ -26,7 +24,7 @@ O AEM e o Workfront simplificam a produção de conteúdo, permitindo a importa�
 <table>
     <thead>
         <tr>
-            <th>aplicativos Experience Cloud</th>
+            <th>Aplicativos da Experience Cloud</th>
             <th>Integra-se usando o</th>
             <th>Quando usar</th>
             <th>Casos de uso comuns</th>
@@ -34,7 +32,7 @@ O AEM e o Workfront simplificam a produção de conteúdo, permitindo a importa�
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=pt-BR" target="_blank" rel="noreferrer">Workfront e AEM Assets Essentials</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" target="_blank" rel="noreferrer">Workfront e AEM Assets Essentials</a></td>
             <td>Conector nativo</td>
             <td>
               <ul style="margin-top: 0;">
@@ -50,7 +48,7 @@ O AEM e o Workfront simplificam a produção de conteúdo, permitindo a importa�
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html?lang=pt-BR" target="_blank" rel="noreferrer">WORKFRONT e AEM ASSETS</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" target="_blank" rel="noreferrer">WORKFRONT e AEM ASSETS</a></td>
             <td>Conector aprimorado</td>
             <td>
                 <ul style="margin-top: 0;">
